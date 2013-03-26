@@ -60,7 +60,7 @@ Judgment in Cases of Impeachment shall not extend further than to removal from O
 === Section 4. ===
 The General Assembly of the United States shall not represent any state in particular, but shall instead represent the country at large. It shall consist of one member per every million people in the population of the United States, as determined by the Census or Enumeration herein before directed to take place. Each Assemblyperson shall be chosen by lottery, certified to be random (in a manner similar to how people are selected for jury duty), from the entire population of the United States that has registered an interest of serving with the General Assembly, and who shall meet the requirements for service stated in this section. Each Assemblyperson shall serve a single term of five years. 
 
-No person shall serve as an Assemblyperson who shall not have attained the age of twenty years, and been five years a citizen of the United States, and who shall not have voted in the most recent national election preceding the lottery. As the General Assembly is randomly chosen and not elected, after the first lottery in which Assemblypeople are selected, the other two chambers of Congress may specify other reasonable qualifications that Assemblypersons must meet, such as an education requirement, provided that a majority of the currently-serving Assemblypersons concur. These additional qualifications may not conflict with, or make impossible to meet, any of the currently specified qualifications for Assemblypersons outlined in this Constitution
+No person shall serve as an Assemblyperson who shall not have attained the age of twenty years, and been five years a citizen of the United States, and who shall not have voted in the most recent national election preceding the lottery. As the General Assembly is randomly chosen and not elected, after the first lottery in which Assemblypeople are selected, the other two chambers of Congress may specify other reasonable qualifications that Assemblypersons must meet, such as an education requirement, provided that a majority of the currently-serving Assemblypersons concur. These additional qualifications may not conflict with, or make impossible to meet, any of the currently specified qualifications for Assemblypersons outlined in this Constitution, or anything else in this Constitution. Any additional qualifications added in this way shall not be required until the following lottery for the selection of Assemblypersons, and no qualifications added in this way shall make any currently-serving Assemblypersons ineligible for their office.
 
 The Assemblypersons shall choose their officers on a rotating basis, such that each member has a chance to hold each office that they may decide to create.
 
@@ -88,7 +88,7 @@ No Senator, Representative, or Assemblyperson shall, during the Time for which h
 === Section 8. ===
 All Bills for raising Revenue shall originate in the House of Representatives; but the Senate may propose or concur with amendments as on other Bills. The General Assembly may simply vote to concur with this type of Bill.
 
-Every Bill which shall have passed two out of the three of chambers of Congress, shall, before it become a law, be presented to the President of the United States: If he approve he shall sign it, but if not he shall return it, with his Objections to that House in which it shall have originated, who shall enter the Objections at large on their Journal, and proceed to reconsider it. If after such reconsideration two thirds of that House shall agree to pass the Bill, it shall be sent, together with the Objections, to the other House that passed it, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall become a Law. But in all such Cases the Votes of all Houses shall be determined by Yeas and Nays, and the Names of the Persons voting for and against the Bill shall be entered on the Journal of each House respectively. If any Bill shall not be returned by the President within ten Days (weekends excepted) after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law.
+Every Bill which shall have passed at least two out of the three of chambers of Congress, shall, before it become a law, be presented to the President of the United States: If he approve he shall sign it, but if not he shall return it, with his Objections to that chamber in which it shall have originated, who shall enter the Objections at large on their Journal, and proceed to reconsider it. If after such reconsideration two thirds of that chamber shall agree to pass the Bill, it shall be sent, together with the Objections, to the other chamber or chambers that passed it, by which it shall likewise be reconsidered, and if approved by two thirds of that chamber as well, it shall become a Law. But in all such Cases the Votes of all chambers shall be determined by Yeas and Nays, and the Names of the Persons voting for and against the Bill shall be entered on the Journal of each House respectively. If any Bill shall not be returned by the President within ten Days (weekends excepted) after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law.
 
 Every Order, Resolution, or Vote to which the concurrence of multiple chambers of Congress may be necessary (except on a question of Adjournment) shall be presented to the President of the United States; and before the Same shall take Effect, shall be approved by him, or being disapproved by him, shall be repassed by two thirds of the passing chambers, according to the Rules and Limitations prescribed in the Case of a Bill.
 
@@ -258,12 +258,22 @@ The Congress shall have Power to dispose of and make all needful Rules and Regul
 The United States shall guarantee to every State in this Union a Republican Form of Government, and shall protect each of them against Invasion; and on Application of the Legislature, or of the Executive (when the Legislature cannot be convened) against domestic Violence.
 
 == Article V. ==
+=== Section 1. ===
+The day on which the United States holds its elections shall be a national holiday. On this day, the federal government shall sponsor celebrations and ceremonies designed to instill a sense of civic duty in the citizenry.
+
+=== Section 2. ===
+All voters in elections held by the United States shall be guaranteed an anonymous preference ballot, that is, a ballot in which the voter ranks the candidates ordinally in accordance with his preferences. The exact method for tallying these preference votes shall be decided by law, but the method chosen shall meet as many of the mathematical criteria for a desirable election method as is reasonably possible.
+
+=== Section 3. ===
+No person shall be barred from candidacy for any election held by the United states on the basis of his membership in any political party, or by his lack of any such membership whatsoever.
+
+== Article VI. ==
 
 The Congress, whenever two thirds of two of the three Houses shall deem it necessary, shall propose Amendments to this Constitution, or, on the Application of the Legislatures of two thirds of the several States, shall call a Convention for proposing Amendments, which, in either Case, shall be valid to all Intents and Purposes, as Part of this Constitution, when ratified by the Legislatures of three fourths of the several States, or by Conventions in three fourths thereof, as the one or the other Mode of Ratification may be proposed by the Congress; Provided that no State, without its Consent, shall be deprived of its equal Suffrage in the Senate. 
 
 If a Constitutional Convention is called by the methods prescribed herein, the Congress, the President, the Vice President, the Executive Council, and the Supreme Court shall all work together to facilitate the Convention, and to make sure that all citizens who would like to attend are able to do so.
 
-== Article VI. ==
+== Article VII. ==
 
 All Debts contracted and Engagements entered into, before the Adoption of this Constitution, shall be as valid against the United States under this Constitution, as under the Confederation.
 
@@ -271,7 +281,7 @@ This Constitution, and the Laws of the United States which shall be made in purs
 
 The Senators, Representatives, and Assemblypersons before mentioned, and the Members of the several State Legislatures, and all executive Officers including but not limited to the President, Vice President, and Executive Councilors, and judicial Officers including but not limited to the Justices of the Supreme Court, both of the United States and of the several States, shall be bound by Oath or Affirmation, to support this Constitution; but no religious Test shall ever be required as a Qualification to any Office or public Trust under the United States, or under any of the several States.
 
-== Article VII. ==
+== Article VIII. ==
 
 The Ratification of the Conventions of nine of the original thirteen States, shall be both necessary and sufficient for the Establishment of this Constitution between the States so ratifying the same.
 
