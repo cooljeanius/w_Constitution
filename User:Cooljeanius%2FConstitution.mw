@@ -325,7 +325,8 @@ All voters in elections held by the United States shall be guaranteed an anonymo
 No person shall be barred from candidacy for any election held by the United States on the basis of his membership in any political party, or by his lack of any such membership whatsoever.
 
 === Section 4 - Counting the Votes ===
-All election officials shall ensure that all voters are able to know that their votes were successfully counted for the candidates for whom they intended to cast their votes, should said voters desire this information.
+All election officials shall ensure that all voters are able to know that their votes were successfully counted for the candidates for whom they intended to cast their votes, should said voters desire this information. This shall be done in a manner consistent with the anonymity of the ballots, such that only the voter desiring this information receives it.
+<!-- How exactly to solve the apparent paradox of making this information available and yet anonymous remains an implementation detail that would be done by statute instead of here. Perhaps it would be done in the method of double-blind scientific experiments, or with UUIDs or other sorts of cryptographic hashes... -->
 
 == Article VI - Amending The Constitution ==
 
