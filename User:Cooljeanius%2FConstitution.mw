@@ -201,9 +201,11 @@ No State shall, without the Consent of Congress, lay any Duty of Tonnage, keep T
 === Section 1 - Overview of The Executive Branch ===
 The executive power shall be vested in the Executive Branch of Government, headed by the President and Vice President of the United States of America, and advised by a Cabinet of his choosing and by a popularly elected Executive Council.
 
-=== Section 2 - Election of The President === 
+=== Section 2 - Election of The President and Vice President === 
+==== Subsection 2.1 - The Electoral College ====
 The President shall hold his Office during the term of four years, and, together with the Vice President, chosen for the same Term, be elected, as follows:
 
+<!-- (this is adapted from the 12th Amendment; might want to cut down on the redundancy...) -->
 Each State shall appoint, in such Manner as the Legislature thereof may direct, a Number of Electors, equal to the whole Number of Senators and Representatives to which the State may be entitled in the Congress: but no Senator or Representative, or Person holding an Office of Trust or Profit under the United States, shall be appointed an Elector.
 
 The Electors shall meet in their respective states, and vote by ballot for President and Vice-President, one of whom, at least, shall not be an inhabitant of the same state with themselves; they shall name in their ballots the person voted for as President, and in distinct ballots the person voted for as Vice-President. These votes shall reflect the vote of the people of the electors' respective states. After the electors have cast their ballots, they shall make distinct lists of all persons voted for as President, and of all persons voted for as Vice-President and of the number of votes for each, which lists they shall sign and certify, and transmit sealed to the seat of the government of the United States, directed to the current President of the Senate;
@@ -216,12 +218,16 @@ The person having the greatest number of votes as Vice-President, shall be the V
 
 The Congress may determine the time of choosing the Electors, and the day on which they shall give their votes; which day shall be the same throughout the United States.
 
+==== Subsection 2.2 - Qualifications of the President and Vice President ====
 No person except a natural born Citizen, or a citizen of the United States, at the time of the adoption of this Constitution, shall be eligible to the Office of President; neither shall any person be eligible to that Office who shall not have attained to the age of thirty five years, and been fourteen years a resident within the United States.
 
 No person shall eligible for the Office of the Vice President, who does not meet the same qualifications required of the President, and who is not a resident of a different state than the President at the time of their election.
 
+==== Subsection 2.3 - Succession of the President ====
+<!-- (this is kind of redundant with the 25th Amendment; the two should probably be harmonized...) -->
 In case of the removal of the President from Office, or of his death, resignation, or inability to discharge the powers and duties of the said office, the same shall devolve on the Vice President, and the Congress may by law provide for the case of removal, death, resignation or inability, both of the President and Vice President, declaring what Officer shall then act as President, and such Officer shall act accordingly, until the disability be removed, or a President shall be elected.
 
+==== Subsection 2.4 - The Oath of Office ====
 Before he enter on the Execution of his Office, he shall take the following Oath or Affirmation:—“I do solemnly swear (or affirm) that I will faithfully execute the Office of President of the United States, and will to the best of my Ability, preserve, protect and defend the Constitution of the United States.” The Chief Justice of the Supreme Court shall be responsible for administering this Oath or Affirmation to the President.
 
 === Section 3 - Powers of The President ===
