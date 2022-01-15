@@ -22,11 +22,12 @@ __NOINDEX__
 
 == Preamble ==
 <!-- Here I added a clause defining what the term "The People" refers to, so that corporations do not get counted as people. -->
-We, the People, the unique human beings making up the citizenry of these United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish over ourselves this Constitution for the United States of America.
+We, the People, the unique human beings making up the populace of these United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish over ourselves this Constitution for the United States of America.
 
 == Article I - The Legislative Branch ==
 
 === Section 1 - Overview of the Legislative Branch ===
+<!-- Since I made the Senate worse, I moved to a "best two out of three" system with a third chamber to make up for it, so that the Senate may effectively be ignored: -->
 All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate, a House of Representatives, and a General Assembly.
 
 === Section 2 - The House of Representatives ===
@@ -34,7 +35,7 @@ All legislative Powers herein granted shall be vested in a Congress of the Unite
 The House of Representatives shall be composed of Members chosen every second Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislature. There shall be no limit on the number of two-year terms that a person may serve in the House of Representatives, unless the constitution of the State which they are representing specifies otherwise.
 
 ==== Subsection 2.2 - Qualifications of Representatives ====
-No Person shall be a Representative who shall not have attained to the age of twenty five Years, and been seven Years a Citizen of the United States, and who shall not, when elected, be a legal inhabitant of that State in which he shall be chosen.
+No Person shall be a Representative who shall not have attained to the age of twenty five Years, and been seven Years a Citizen of the United States, and who shall not, when elected, be a legal inhabitant of that State in which he shall be chosen. If a state selects its representatives by means of the use of Congressional Districts, no Person shall be a Representative of a Congressional District who shall not, when elected, be a legal inhabitant of that Congressional District in which he shall be chosen.
 
 <!-- This clause is meant to encourage compromise by encouraging Representatives to actually pass bills.
 Although this could result in them just passing pointless laws to fulfill this requirement, I suppose that would still be okay... -->
@@ -51,7 +52,7 @@ The House of Representatives shall choose their Speaker and other Officers; and 
 
 === Section 3 - The Senate ===
 ==== Subsection 3.1 - Election of Senators ====
-<!-- my method here is an attempt at a compromise between the original appointment of Senators envisioned by the Founding Fathers, which promotes the Separation of Powers, and the elections provided for by the 17th Amendment, which promote democracy: -->
+<!-- My method here is an attempt at a compromise between the original appointment of Senators envisioned by the Founding Fathers, which promotes the Separation of Powers, and the elections provided for by the 17th Amendment, which promote democracy. Yes, moving backwards in this fashion would be bad if that's all I did, but the addition of a third chamber (the General Assembly) with a "best two out of three" system makes it possible to bypass it: -->
 The Senate of the United States shall be composed of three Senators from each State, chosen in an election in that State in which the single winning candidate shall be the one that receives at least two of the three of the following: a plurality of votes of the people of that state, a plurality of votes of the Legislature of that State, and the approval of the Executive Authority of that state. If there is no single candidate that meets the preceding criteria, then the winning candidate shall be the one that receives a plurality of votes of the people of that state. Each Senator shall be elected for a term of six Years; and each Senator shall have one Vote. There shall be no limit on the total number of six-year terms that a Senator may serve, unless the constitution of the State which they are representing specifies otherwise.
 
 Immediately after they shall be assembled in Consequence of the first Election, the Senators from each state shall be divided as equally as may be into three Classes. The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year, and of the third Class at the Expiration of the sixth Year, so that each state may chose one of their three Senators every second Year. When vacancies happen in the representation of any State in the Senate, the executive authority of such State shall issue writs of election to fill such vacancies: Provided, that the legislature of any State may empower the executive thereof to make temporary appointments until the vacancies are filled in an election as the legislature may direct. Winners in these special elections shall be chosen in the same way as winners of senatorial elections are normally chosen.
@@ -73,13 +74,14 @@ Judgment in Cases of Impeachment shall not extend further than to removal from O
 
 === Section 4 - The General Assembly ===
 ==== Subsection 4.1 - Method of Choosing Assemblypersons ====
-The General Assembly of the United States shall not represent any state in particular, but shall instead represent the country at large. It shall consist of one member per every million people in the population of the United States, as determined by the Census or Enumeration herein before directed to take place. Each Assemblyperson shall be chosen by lottery, certified to be random (in a manner similar to how people have traditionally been selected for jury duty), from the entire population of the United States that has registered an interest of serving with the General Assembly, and who shall meet the requirements for service stated in this section. Each Assemblyperson shall serve a single term of five years. 
+<!-- maybe use the word "sortition" in here? -->
+The General Assembly of the United States shall not represent any state in particular, but shall instead represent the country at large. It shall consist of one member per every million people in the population of the United States, as determined by the Census or Enumeration herein before directed to take place. Each Assemblyperson shall be chosen by lottery, certified to be random (in a manner similar to how people have traditionally been selected for jury duty), from the entire population of the United States that has registered an interest of serving with the General Assembly, and who shall meet the requirements for service stated in this section. When a vacancy occurs in the General Assembly, a new Assemblyperson shall be chosen by the same method. Each Assemblyperson shall serve a single term of five years. <!-- TODO: do their terms need to be synced with one another, as with the other chambers? Or is it okay for the length of their terms to start from when they are sworn in, such that members chosen to fill vacancies complete their terms at different times from the other? How does this interact with the selection of officers described in Subsection 4.3? -->
 
 ==== Subsection 4.2 - Qualifications of Assemblypersons ====
 No person shall serve as an Assemblyperson who shall not have attained the age of twenty years, and been five years a citizen of the United States, and who shall not have voted in the most recent national election preceding the lottery. As the General Assembly is randomly chosen and not elected, after the first lottery in which Assemblypersons are selected, the other two chambers of Congress may specify other reasonable qualifications that Assemblypersons must meet, such as a requirement that Assemblypersons have a certain level of education, provided that a majority of the currently-serving Assemblypersons concur. These additional qualifications may not conflict with, or make impossible to meet, any of the currently specified qualifications for Assemblypersons outlined in this Constitution, or anything else in this Constitution. Any additional qualifications added in this way shall not be required until the following lottery for the selection of Assemblypersons, and no qualifications added in this way shall make any currently-serving Assemblypersons ineligible for their office.
 
 ==== Subsection 4.3 - Officers of the General Assembly ====
-The Assemblypersons shall choose their officers on a rotating basis, such that each member has a chance to hold each office that they may decide to create for an equal amount of time.
+The Assemblypersons shall choose their officers on a rotating basis, such that each member has a chance to hold each office that they may decide to create for an equal amount of time. This does not mean that every member need be holding an office at any given time, just that each one gets a chance to hold each office available at some point during their tenure. The General Assembly may choose to ignore this provision if the resulting equal slices of time would be shorter than a single 24-hour day, and may instead choose to assign officers by a method of their choosing.
 
 ==== Subsection 4.4 - Responsibilities of the General Assembly ====
 The General Assembly shall hold the primary responsibility for hearing any petitions for redress that the people may bring before the Congress; and if any members of the other chambers of Congress feel they are unable to satisfactorily respond to their constituents' requests, questions, and concerns, they may direct said constituents to consult the General Assembly instead. Any citizen wishing to contact a congressperson of whom they are not constituents may also be directed to consult the General Assembly instead as well.
@@ -132,13 +134,13 @@ To provide for the Punishment of counterfeiting the Securities and current Coin 
 
 To establish Post Offices, post Roads, and any other facilities required by the Postal Service;
 
-To promote the progress of science and useful arts, by securing for limited times to authors and inventors the exclusive right to their respective writings and discoveries; but such exclusive rights may not be used for any other purpose besides the previously mentioned promotion of progress of science and useful arts, and the "limited times" for which these rights may be secured shall not exceed the lifespans of the unique human authors and inventors to whom these rights are granted;
+To promote the progress of science and useful arts, by securing for limited times to authors and inventors the exclusive right to their respective writings and discoveries; but such exclusive rights may not be used for any other purpose besides the previously mentioned promotion of progress of science and useful arts, and may thus be curtailed to the extent that they obstruct these purposes, and the "limited times" for which these rights may be secured shall not exceed the lifespans of the unique human authors and inventors to whom these rights are granted;
 
-To edify the culture of American citizens, by funding the construction of libraries, theaters, and other cultural institutions;
+To edify the culture of the American populace, by funding the construction of libraries, theaters, and other cultural institutions;
 
 To provide for, fund, and promote the education of American schoolchildren,
 
-To promote the civil rights of the country's citizens;
+To promote the civil rights of the country's populace;
 
 To constitute tribunals inferior to the Supreme Court;
 
@@ -185,7 +187,7 @@ No vessels bound to, or from, one State, shall be obliged to enter, clear, or pa
 
 No money shall be drawn from the Treasury, except as a consequence of Appropriations made by Law; and a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time.
 
-No Title of Nobility shall be granted by the United States: And no Person holding any Office of Profit or Trust under them, shall, without the Consent of the Congress, accept or inherit any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince or foreign State.
+No Title of Nobility shall be granted by the United States: And no Person holding any Office of Profit or Trust under them, shall, without the explicit Consent of the Congress, accept or inherit any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince or foreign State. Any officeholder found to have received anything in violation of this provision shall be eligible for impeachment and forfeiture of what it is they have received, as well as any other consequences which may be provided for by law.
 
 No Congressperson shall knowingly and intentionally force the United States to default on its debts.
 
@@ -231,7 +233,7 @@ In case of the removal of the President from Office, or of his death, resignatio
 Before he enter on the Execution of his Office, he shall take the following Oath or Affirmation:—“I do solemnly swear (or affirm) that I will faithfully execute the Office of President of the United States, and will to the best of my Ability, preserve, protect and defend the Constitution of the United States.” The Chief Justice of the Supreme Court shall be responsible for administering this Oath or Affirmation to the President.
 
 === Section 3 - Powers of The President ===
-The President shall be Commander in Chief of the Army, Navy, and Air Force of the United States, and of the Militia of the several States, when called into the actual Service of the United States; he may require the opinion, in writing, of the principal Officer in each of the executive Departments, upon any subject relating to the duties of their respective Offices, and he shall have power to grant Reprieves and Pardons for offenses against the United States, except in cases of Impeachment.
+The President shall be Commander in Chief of the Army, Navy, and Air Force of the United States, and of the Militia of the several States, when called into the actual Service of the United States; he may require the opinion, in writing, of the principal Officer in each of the executive Departments, upon any subject relating to the duties of their respective Offices, and he shall have power to grant Reprieves and Pardons for offenses against the United States, except in cases of Impeachment, or in cases where the offender is the President himself, or a person in his employ, or a person holding an office to which they were nominated by the President.
 
 He shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Senators present concur; and he shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the Supreme Court, and all other Officers of the United States, whose Appointments are not herein otherwise provided for, and which shall be established by Law: but the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments.
 
@@ -245,16 +247,22 @@ The President shall from time to time give to the Congress Information on the St
 The Executive Council shall consist in one member from a pairing between each of the states, chosen in elections every four years by the citizens of each pairing of respective states. The states shall be paired as follows: After the Census or Enumeration specified herein has taken place, the states shall be ranked in order of population. The most populous state shall be paired with the least populous, the second-most populous with the second-least populous, and so on. In the event that there is an odd number of states and exactly one state is the median state, the median state shall be paired with the citizens of the District constituting the seat of Government of the United States, provided that this District is not also a state itself, in which case the median state shall instead be paired with the population of American citizens not counted as living in any specific State. These four-year elections for Executive Council shall be staggered evenly between the four-year elections of the President, so as to provide continuity in the Executive Branch between administrations. In the event that a Census or Enumeration shall occur in the middle of an Executive Council term, the new pairings based on that Census or Enumeration shall not be applied until the following election. There shall be no limit on the total number of four-year terms that an Executive Councilor may serve, unless the constitution of both of the States in the pair that has elected him specifies otherwise. In the case of a single median state, only a specification in that single state's constitution shall be necessary to impose term limits on that Executive Councilor. As pairings are liable to shift with population changes, any term limits that may be specified by state constitutions shall only apply to the terms of Executive Councilors in which they represent the same pair of states.
 
 ==== Subsection 5.2 - Qualifications of Executive Councilors ====
-No person shall be an Executive Councilor who shall not have attained to the age of forty years, and been twenty years a citizen of the United States, and who shall not, when elected, be a legal inhabitant of one of the two States in the pairing of states for which he shall be chosen.
+No person shall be an Executive Councilor who shall not have attained to the age of forty years, and been twenty years a citizen of the United States, and who shall not, when elected, be a legal inhabitant of the smaller of the two States in the pairing of states for which he shall be chosen.
 
 ==== Subsection 5.3 - Duties, Responsibilities, and Powers of the Executive Council ====
 The Executive Council shall assist the President in the distribution of his executive orders amongst the various departments to which the given executive order is relevant.
 
-The Executive Council shall assist the President in deciding which Reprieves and Pardons to grant, and in which persons to nominate for the offices that the President has been granted the power to make nominations for herein. If a federal office for which the president is supposed to make a nomination remains unfilled one hundred and eighty days after its initial vacancy, and the President has yet to make his own nomination for the position, the Executive Council may make a nomination for that position instead.
+The Executive Council shall assist the President in deciding which Reprieves and Pardons to grant, and, if necessary, may vote to override any Reprieves and Pardons that they determine, by a two-thirds vote, to have been corruptly granted, or to pose a danger to the Republic.
 
+The Executive Council shall also assit the President in deciding which persons to nominate for the offices that the President has been granted the power to make nominations for herein. If a federal office for which the president is supposed to make a nomination remains unfilled one hundred and eighty days after its initial vacancy, and the President has yet to make his own nomination for the position, the Executive Council may make a nomination for that position instead.
+
+<!-- TODO: consider adjusting time frame here; one week might be a bit short... -->
 One week after the President actually does make a nomination to one of the offices mentioned previously, if the Senate fails to tell the President one way or another whether or not they shall give him the advice and consent that they are constitutionally required to give on such nominations, the President shall then be entitled to ask the Executive Council for that same advice and consent instead. Similarly, if the Senate fails to tell the President within one week one way or another whether or not they shall consent to a treaty that he has signed, the President shall then be entitled to ask the Executive Council to provide this consent to the treaty instead.
 
 The Executive Council shall be responsible for the smooth functioning of Executive Branch agencies, and shall regularly review their budgets.
+
+<!-- TODO: compare with the language in the NH Consitution for the Executive Council's approval of contracts: -->
+When the President signs into law a budget passed by Congress, if that budget provides for the spending of money in a way to be determined by the President, without naming a specifc entity with whom the President must contract for the spending of that money, the President must submit his own choice of a specific entity with whom to contract for the spending of that money to the Executive Council, who must then vote to approve or disapprove that contract.
 
 === Section 6 - Removal From Office, and Compensation for Services ===
 The President, Vice President, Cabinet, Executive Council, and all other Civil Officers in the Executive Branch of the United States, shall be removed from Office on Impeachment for and conviction of, treason, bribery, or other high crimes and felonies.
@@ -264,6 +272,7 @@ The President, Vice President, Cabinet, Executive Council, and all other Civil O
 == Article III - The Judicial Branch ==
 
 === Section 1 - Overview of The Judicial Branch ===
+<!-- TODO: method to change number of justices? -->
 The judicial Power of the United States, shall be vested in one Supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish. The Supreme Court shall consist in nine Justices, one of whom shall be designated the Chief Justice. The Judges, both of the Supreme and Inferior Courts, shall hold their Offices during good behavior, and shall, at stated times, receive for their services, a compensation, which shall not be diminished during their Continuance in Office. No person shall be nominated to the office of Supreme Court Justice who has not ever appeared in a courtroom in any official capacity, whether it be as a judge, attorney, juror, bailiff, police officer, clerk, expert witness, or any other official position that a lower court may choose to establish.
 
 === Section 2 - Judicial Power ===
@@ -279,7 +288,7 @@ In all Cases affecting Ambassadors, other public Ministers and Consuls, and thos
 After deciding a Case, the Supreme Court shall issue an opinion (or multiple opinions) justifying the reasoning behind the Court's decision. These opinions shall have the force of Precedent. If any Justices dissent from the majority opinion of the Court, they shall issue separate dissenting opinions, explaining their reasoning why they think the majority decided the case incorrectly. While dissenting opinions shall not have the force of Precedent on their own, they may be cited in future opinions that overturn Precedent. Generally Courts should respect Precedent, and should only overturn Precedent when absolutely necessary. The Courts may interpret when it is "absolutely necessary" at their own discretion. 
 
 ==== Subsection 2.4 - Judicial Review ====
-In deciding a Case, the Supreme Court may decide that it needs the power of Judicial Review in order to correctly decide that case. In granting itself the power of Judicial Review, the Court may then strike down a law that is in question in the case at hand, on the grounds that that law is Unconstitutional. To do this, the opinion of the Court must cite the specific portion of the Constitution that the Law in question violates. Generally, the Court shall exercise restraint in granting itself the power of Judicial Review, as overturning a law desired by a majority of the people in a democratic republic is a serious matter. For this reason, the Court shall only use the power of Judicial Review in cases where it could not decide the case fairly without otherwise doing so, or in cases where it is necessary to protect an oppressed minority from an oppressive majority. The Supreme Court may not exercise the power of Judicial Review against any law that it simply believes to be Unconstitutional, unless a party to a lawsuit before the Court specifically makes the argument that the law is Unconstitutional. In other words, the opinions of the Court may not go farther in either direction than either of the parties in the case before the Court argue themselves. Furthermore, the Court may not create issues out of a case that neither of the parties before them in the case bring up themselves.
+In deciding a Case, the Supreme Court may decide that it needs the power of Judicial Review in order to correctly decide that case. In granting itself the power of Judicial Review, the Court may then strike down a law that is in question in the case at hand, on the grounds that that law is Unconstitutional. To do this, the opinion of the Court must cite the specific portion of the Constitution that the Law in question violates. Generally, the Court shall exercise restraint in granting itself the power of Judicial Review, as overturning a law desired by a majority of the people in a democratic republic is a serious matter. For this reason, the Court shall only use the power of Judicial Review in cases where it could not decide the case fairly without otherwise doing so, or in cases where it is necessary to protect an oppressed minority from an oppressive majority. The Supreme Court may not exercise the power of Judicial Review against any law that it simply believes to be Unconstitutional, unless a party to a lawsuit before the Court specifically makes the argument that the law is Unconstitutional. In other words, the opinions of the Court may not go farther in either direction than either of the parties in the case before the Court argue themselves. Furthermore, the Court may not create issues out of a case that neither of the parties before them in the case bring up themselves. Any decision that the Supreme Court makes in violation of the provisions of this subsection shall not be enforced.
 
 ==== Subsection 2.5 - Writs of Certiorari ====
 The Supreme Court shall have the power to decide which cases it hears by issuing Writs of Certiorari, or by other methods to be decided by law.
@@ -291,7 +300,7 @@ From time to time, the Supreme Court may request ''Amicus Curiae'' briefs from p
 The Supreme Court shall have the power to issue Advisory Opinions on the constitutionality of proposed laws at the request of any of the three Chambers of Congress, in a manner as described in Article I Section 3 of this Constitution.
 
 ==== Subsection 2.8 - Jury Trials ====
-The Trial of all Crimes, except in Cases of Impeachment, shall be by a jury of the accused's peers; and such Trial shall be held in the State where the said Crimes shall have been committed; but when not committed within any State, the Trial shall be at such Place or Places as the Congress may by Law have directed.
+The Trial of all Crimes, except in Cases of Impeachment, shall be by a jury of the accused's peers (by which is meant a representative sample of persons sharing characteristics in common with the accused); and such Trial shall be held in the State where the said Crimes shall have been committed; but when not committed within any State, the Trial shall be at such Place or Places as the Congress may by Law have directed.
 
 === Section 3 - Treason ===
 Treason against the United States, shall consist only in levying War against them, or in adhering to their Enemies, giving them Aid and Comfort. This "Aid and Comfort" criterion shall be construed narrowly, and shall require evidence to be cited before applying it. No Person shall be convicted of Treason unless on the testimony of two or more witnesses to the same overt, verifiable act, or on confession in open Court. The Congress shall have Power to declare the Punishment of Treason, but no Attainder of Treason shall work Corruption of Blood, or Forfeiture except during the Life of the Person attainted.
@@ -319,7 +328,7 @@ The United States shall guarantee to every State in this Union a Republican Form
 The day on which the United States holds its elections shall be a national holiday. On this day, the federal government shall sponsor celebrations and ceremonies designed to instill a sense of civic duty in the citizenry, in a manner to be determined by law.
 
 === Section 2 - Balloting and Voting Method ===
-All voters in elections held by the United States shall be guaranteed an anonymous preference ballot, that is, a ballot in which the voter ranks the candidates ordinally in accordance with his preferences. The exact method for tallying these preference votes shall be decided by law, but the method chosen shall meet as many of the mathematical criteria for a desirable election method as is reasonably possible.
+All voters in elections held by the United States shall be guaranteed an anonymous preference ballot, that is, a ballot in which the voter ranks the candidates ordinally in accordance with his preferences. The exact method for tallying these preference votes shall be decided by law, but the method chosen shall meet as many of the mathematical criteria for a desirable election method as is reasonably possible. <!-- Of course, Arrow's Theorem says it's impossible to meet them all, so that's why it's "as is reasonably possible" -->
 
 === Section 3 - Candidates and Political Parties ===
 No person shall be barred from candidacy for any election held by the United States on the basis of his membership in any political party, or by his lack of any such membership whatsoever.
@@ -334,7 +343,7 @@ All election officials shall ensure that all voters are able to know that their 
 The Congress, whenever two thirds of two of the three Houses shall deem it necessary, shall propose Amendments to this Constitution, or, on the application of the Legislatures of two thirds of the several States, shall call a Convention for proposing Amendments, which, in either Case, shall be valid to all Intents and Purposes, as Part of this Constitution, when ratified by the Legislatures of three fourths of the several States, or by Conventions in three fourths thereof, as the one or the other Mode of Ratification may be proposed by the Congress; provided that no State, without its consent, shall be deprived of its equal suffrage in the Senate, and also provided that no State, without its consent, shall be deprived of a fair suffrage proportionate to its population in the House of Representatives. The Congress shall have the power to request that the Legislatures of the several states submit an application to call a Convention of the sort described herein.
 
 === Section 2 - Extra Accommodations Required for Constitutional Conventions ===
-If a Constitutional Convention is called by the methods prescribed herein, the Congress, the President, the Vice President, the Executive Council, and the Supreme Court shall all work together to facilitate the Convention, and to make sure that all citizens who would like to attend are able to do so.
+If a Constitutional Convention is called by the methods prescribed herein, the Congress, the President, the Vice President, the Executive Council, and the Supreme Court shall all work together to facilitate the Convention, and to make sure that all citizens without their own means of attendance are provided with means of attendance.
 
 == Article VII - Authority of This Constitution ==
 
@@ -352,14 +361,17 @@ The Senators, Representatives, and Assemblypersons before mentioned, and the Mem
 The Ratification of the Conventions of nine of the original thirteen States, shall be both necessary and sufficient for the Establishment of this Constitution between the States so ratifying the same.
 
 == Bill of Rights ==
+=== Amendment 0 - About these Rights in General ===
+The rights guaranteed in this Bill of Rights are thought to be held equally by all to whom they apply. Congress shall ensure that not only are these rights not violated in a negative fashion, but also that all have the capability to exercise these rights in a positive fashion.
+
 === Amendment I - Freedom of Thought and Expression === 
-Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof (unless said free exercise would violate one of the other freedoms outlined in this Bill of Rights); or abridging the freedom of speech of the people, or abridging the freedom of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances; or abridging the right of freedom of conscience. All freedoms protected in this amendment shall apply only to the set of unique human beings described in the Preamble of this Constitution.
+Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof (unless said free exercise would violate one of the other freedoms outlined in this Bill of Rights); or abridging the freedom of speech of the people, or abridging the freedom of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances; or abridging the right of freedom of conscience. All freedoms protected in this amendment shall apply only to the set of unique human beings described in the Preamble of this Constitution. "Freedom of speech" as used in this amendment is meant more in the sense of the Greek word "isegoria" (an equal chance to speak freely) than it is in the sense of the Greek word "parrhesia" (license to say whatever one wishes).
 
 === Amendment II - Freedom of Self-Defense ===
 A well regulated Militia, being necessary for the security and defense of a free state, the collective right of the people to keep and bear arms as a militia, shall not be infringed. However, an individual's right to keep and bear arms may be regulated so far as is necessary to ensure the public safety. Also, no person, who is conscientiously scrupulous about the lawfulness or morality of bearing arms, shall be compelled to serve in a militia or otherwise bear arms against their will.
 
 === Amendment III - Privacy of the People's Homes from Soldiers === 
-Given that people have a right to privacy of their homes, no soldier or other similar member of the military shall, in time of peace be quartered in any house, without the consent of the owner, nor in time of war, but in a manner to be prescribed by law.
+Given that people have a right to privacy of their homes, no soldier or other similar member of the military or any police force shall, in time of peace be quartered in any house, without the consent of the owner, nor in time of war, but in a manner to be prescribed by law.
 
 === Amendment IV - Freedom From Unlawful Searches and Seizures === 
 The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the location or place to be searched, and the persons, things, or information to be seized. The Congress shall have the power to define fair and reasonable criteria for probable cause by appropriate legislation.
@@ -396,7 +408,7 @@ The person having the greatest number of votes as Vice-President, shall be the V
 
 === Amendment XIII - Freedom From Slavery ===
 ==== Section 1 - Slavery Banned ====
-Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted and lawfully sentenced, shall exist within the United States, or any place subject to their jurisdiction.
+Neither slavery nor involuntary servitude shall exist within the United States, or any place subject to their jurisdiction.
 
 ==== Section 2 - Congressional Power of Enforcement ====
 Congress shall have power to enforce this article by appropriate legislation.
@@ -486,7 +498,7 @@ Should the District at any point be admitted as a State to the Union as provided
 
 === Amendment XXIV - Freedom From Poll Taxes ===
 ==== Section 1 - Poll Taxes Banned ====
-The right of citizens of the United States to vote in any primary or other election for President or Vice President, for electors for President or Vice President, or for Senator or Representative in Congress, shall not be denied or abridged by the United States or any State by reason of failure to pay any poll tax, or any other similar tax or fee, or for failure to meet any other requirement that requires the voter to possess a certain amount of money.
+The right of citizens of the United States to vote in any primary or other election for President or Vice President, for electors for President or Vice President, or for Senator or Representative in Congress, shall not be denied or abridged by the United States or any State by reason of failure to pay any poll tax, or any other similar tax or fee, or for failure to meet any other requirement that requires the voter to possess a certain minimum amount of money.
 
 ==== Section 2 - Congressional Power of Enforcement ====
 The Congress shall have power to enforce this article by appropriate legislation, and to compel the various states to comply with it.
@@ -531,4 +543,4 @@ The Congress shall have power to limit, regulate, and prohibit the labor of pers
 The power of the several States is unimpaired by this article except that the operation of State laws shall be suspended to the extent necessary to give effect to legislation enacted by the Congress.
 
 === Amendment XXX - Voting Rights for All Castes ===
-The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of their status in any social caste system, such as the Hindu caste system. Congress shall have power to enforce this article by appropriate legislation.
+The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of their status in any socioeconomic caste system. Congress shall have power to enforce this article by appropriate legislation.
