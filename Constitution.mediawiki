@@ -20,6 +20,8 @@ The Constitution is the second of the three Charters of Freedom along with the [
 __NOINDEX__
 <div style="float:right; width:220px; margin:0 auto 1em 1em;">__TOC__</div>
 
+<!-- TODO: see: https://www.newyorker.com/news/daily-comment/kurt-godels-loophole-and-donald-trumps-defiance -->
+
 == Preamble ==
 <!-- Here I added a clause defining what the term "The People" refers to, so that corporations do not get counted as people. I use the word "unique" instead of "individual" here and throughout because I oppose individualism, but still need an adjective to clarify that people be distinguished from one another. -->
 We, the People, the unique human beings making up the populace of these United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish over ourselves this Constitution for the United States of America.
