@@ -354,7 +354,11 @@ The Congress, whenever two thirds of two of the three Houses shall deem it neces
 === Section 2 - Extra Accommodations Required for Constitutional Conventions ===
 If a Constitutional Convention is called by the methods prescribed herein, the Congress, the President, the Vice President, the Executive Council, and the Supreme Court shall all work together to facilitate the Convention, and to make sure that all citizens without their own means of attendance are provided with means of attendance.
 
-== Article VII - Authority of This Constitution ==
+=== Section 3 - Self-Reference ===
+<!-- An attempt to close what some have hypothesized to be the Gödel Loophole: -->
+While amendments to this Constitution may edit this Article self-referentially, amendments made in this manner shall not be used to give any individual person any greater power to modify the Constitution on their own than any other individual person possesses, nor shall any amendments made in this manner cause the United States government to be transformed into any form of government resembling what is commonly referred to as a "dictatorship".
+
+== ARTICLE VII - Authority of This Constitution ==
 
 === Section 1 - Validity of Previous Debts ===
 All Debts contracted and Engagements entered into, before the Adoption of this Constitution, shall be as valid against the United States under this Constitution, as under the Confederation.
