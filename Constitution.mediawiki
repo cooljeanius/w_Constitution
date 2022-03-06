@@ -268,15 +268,15 @@ The Executive Council shall assist the President in the distribution of his exec
 The Executive Council shall assist the President in deciding which Reprieves and Pardons to grant, and, if necessary, may vote to override any Reprieves and Pardons that they determine, by a two-thirds vote, to have been corruptly granted, or to pose a danger to the Republic.
 
 <!-- I forget how I chose the "one hundred and eighty days" figure originally; might be worth adjusting: -->
-The Executive Council shall also assit the President in deciding which persons to nominate for the offices that the President has been granted the power to make nominations for herein. If a federal office for which the president is supposed to make a nomination remains unfilled one hundred and eighty days after its initial vacancy, and the President has yet to make his own nomination for the position, the Executive Council may make a nomination for that position instead.
+The Executive Council shall also assist the President in deciding which persons to nominate for the offices that the President has been granted the power to make nominations for herein. If a federal office for which the president is supposed to make a nomination remains unfilled one hundred and eighty days after its initial vacancy, and the President has yet to make his own nomination for the position, the Executive Council may make a nomination for that position instead.
 
 <!-- TODO: consider adjusting time frame here; one week might be a bit short... -->
 One week after the President actually does make a nomination to one of the offices mentioned previously, if the Senate fails to tell the President one way or another whether or not they shall give him the advice and consent that they are constitutionally required to give on such nominations, the President shall then be entitled to ask the Executive Council for that same advice and consent instead. Similarly, if the Senate fails to tell the President within one week one way or another whether or not they shall consent to a treaty that he has signed, the President shall then be entitled to ask the Executive Council to provide this consent to the treaty instead.
 
 The Executive Council shall be responsible for the smooth functioning of Executive Branch agencies, and shall regularly review their budgets.
 
-<!-- TODO: compare with the language in the NH Consitution for the Executive Council's approval of contracts: -->
-When the President signs into law a budget passed by Congress, if that budget provides for the spending of money in a way to be determined by the President, without naming a specifc entity with whom the President must contract for the spending of that money, the President must submit his own choice of a specific entity with whom to contract for the spending of that money to the Executive Council, who must then vote to approve or disapprove that contract.
+<!-- TODO: compare with the language in the NH Constitution for the Executive Council's approval of contracts: -->
+When the President signs into law a budget passed by Congress, if that budget provides for the spending of money in a way to be determined by the President, without naming a specific entity with whom the President must contract for the spending of that money, the President must submit his own choice of a specific entity with whom to contract for the spending of that money to the Executive Council, who must then vote to approve or disapprove that contract.
 
 === Section 6 - Removal From Office, and Compensation for Services ===
 The President, Vice President, Cabinet, Executive Council, and all other Civil Officers in the Executive Branch of the United States, shall be removed from Office on Impeachment for and conviction of, treason, bribery, or other high crimes and felonies.
@@ -362,6 +362,7 @@ If a Constitutional Convention is called by the methods prescribed herein, the C
 === Section 3 - Self-Reference ===
 <!-- An attempt to close what some have hypothesized to be the Gödel Loophole: -->
 While amendments to this Constitution may edit this Article self-referentially, amendments made in this manner shall not be used to give any individual person any greater power to modify the Constitution on their own than any other individual person possesses, nor shall any amendments made in this manner cause the United States government to be transformed into any form of government resembling what is commonly referred to as a "dictatorship".
+<!-- (It might be better just to remove any possibility for self-reference entirely, but... I dunno... self-reference might be necessary to fix some other screw-ups...) -->
 
 == ARTICLE VII - Authority of This Constitution ==
 
