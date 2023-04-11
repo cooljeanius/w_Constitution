@@ -366,6 +366,7 @@ The judicial Power of the United States, shall be vested in one Supreme Court, a
 The Supreme Court shall consist in an odd number of Justices, one of whom shall be designated the Chief Justice.
 Additional Justices, beyond the nine currently serving as of this revision to the Constitution, may be appointed by the usual nominations process for Supreme Court Justices, provided that the new number of Justices remain odd, and smaller than the maximum number of persons that may fit inside the Court's chambers.
 The Judges, both of the Supreme and Inferior Courts, shall hold their Offices during good behavior, and shall, at stated times, receive for their services, a compensation, which shall not be diminished during their Continuance in Office.
+Examples of bad behavior that shall cause a Judge to cease holding office shall include impeachment, conviction in cases of major crimes, and violations of any code of ethics that may be established for the Judiciary.
 No person shall be nominated to the office of Supreme Court Justice who has not ever appeared in a courtroom in any official capacity, whether it be as a judge, attorney, juror, bailiff, police officer, clerk, expert witness, or any other official position that a lower court may choose to establish.
 
 === Section 2 - Judicial Power ===
