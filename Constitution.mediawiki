@@ -200,9 +200,9 @@ To promote the civil rights of the country's populace;
 
 To constitute tribunals inferior to the Supreme Court;
 
-To define and punish Piracies and Felonies committed on the high Seas, and Offences against the Law of Nations;
+To define and punish violent Piracies and other Felonies committed on the high Seas, and Offences against the Law of Nations;
 
-To declare War, or to temporarily authorize the President to do so;
+To declare War, or to temporarily authorize the President to use force-short-of-war, provided that the temporary and limited nature of such authorizations is well-defined;
 
 To grant Letters of Marque and Reprisal, and make Rules concerning Captures on Land and Water;
 
@@ -305,7 +305,7 @@ In case of the removal of the President from Office, or of his death, resignatio
 ==== Article II, Subsection 2.4 - The Oath of Office ====
 Before he enter on the Execution of his Office, he shall take the following Oath or Affirmation:—“I do solemnly swear (or affirm) that I will faithfully execute the Office of President of the United States, and will to the best of my Ability, preserve, protect and defend the Constitution of the United States.”
 The Chief Justice of the Supreme Court shall be responsible for administering this Oath or Affirmation to the President.
-<!-- TODO: reread that book on how John Roberts screwed up administering the Oath to Obama, and adapt this section accordingly -->
+<!-- TODO: reread that book on how John Roberts screwed up administering the Oath to Obama, and adapt this section accordingly: https://en.wikipedia.org/wiki/The_Oath:_The_Obama_White_House_and_the_Supreme_Court -->
 
 === Article II, Section 3 - Powers of The President ===
 <!-- TODO: limit Commander in Chief powers further -->
@@ -341,7 +341,7 @@ The Executive Council shall assist the President in the distribution of his exec
 <!-- TODO: compare with NH Executive Council input on pardons: -->
 The Executive Council shall assist the President in deciding which Reprieves and Pardons to grant, and, if necessary, may vote to override any Reprieves and Pardons that they determine, by a two-thirds vote, to have been corruptly granted, or to pose a danger to the Republic.
 
-<!-- I forget how I chose the "one hundred and eighty days" figure originally; might be worth adjusting: -->
+<!-- I forget where the "one hundred and eighty days" figure originally came from; might be worth adjusting: -->
 The Executive Council shall also assist the President in deciding which persons to nominate for the offices that the President has been granted the power to make nominations for herein.
 If a federal office for which the president is supposed to make a nomination remains unfilled one hundred and eighty days after its initial vacancy, and the President has yet to make his own nomination for the position, the Executive Council may make a nomination for that position instead.
 
@@ -417,7 +417,7 @@ The Trial of all Crimes, except in Cases of Impeachment, shall be by a jury of t
 
 === Article III, Section 3 - Treason ===
 Treason against the United States, shall consist only in levying War against them, or in adhering to their Enemies, giving them Aid and Comfort.
-This "Aid and Comfort" criterion shall be construed narrowly, and shall require evidence to be cited before applying it.
+This "Aid and Comfort" criterion shall be construed narrowly, and shall require evidence to be cited before applying it, including naming of the specific Enemies being adhered to and receiving the Aid and Comfort.
 No Person shall be convicted of Treason unless on the testimony of two or more witnesses to the same overt, verifiable act, or on confession in open Court.
 The Congress shall have Power to declare the Punishment of Treason, but no Attainder of Treason shall work Corruption of Blood, or Forfeiture except during the Life of the Person attainted.
 
@@ -448,7 +448,7 @@ The day on which the United States holds its elections shall be a national holid
 On this day, the federal government shall sponsor celebrations and ceremonies designed to instill a sense of civic duty in the citizenry, in a manner to be determined by law.
 
 === Article V, Section 2 - Balloting and Voting Method ===
-All voters in elections held by the United States shall be guaranteed an anonymous preference ballot, that is, a ballot in which the voter ranks the candidates ordinally in accordance with his preferences.
+All voters in elections held by the United States shall be guaranteed an anonymous preference ballot, that is, a ballot in which the voter ranks the candidates ordinally in accordance with his or her preferences.
 The exact method for tallying these preference votes shall be decided by law, but the method chosen shall meet as many of the mathematical criteria for a desirable election method as is reasonably possible.
 <!-- (Of course, Arrow's Theorem says it's impossible to meet them all, so that's why it's "as is reasonably possible") -->
 
@@ -474,7 +474,7 @@ If a Constitutional Convention is called by the methods prescribed herein, the C
 
 === Article VI, Section 3 - Self-Reference ===
 <!-- An attempt to close what some have hypothesized to be the Gödel Loophole: -->
-While amendments to this Constitution may edit this Article self-referentially, amendments made in this manner shall not be used to give any individual person any greater power to modify the Constitution on their own than any other individual person possesses, nor shall any amendments made in this manner cause the United States government to be transformed into any form of government resembling what is commonly referred to as a "dictatorship".
+While amendments to this Constitution may edit this Article self-referentially, amendments made in this manner shall not be used to give any individual person any greater power to modify the Constitution on their own than any other individual person possesses, nor shall any amendments made in this manner cause the United States government to be transformed into any form of government resembling what is commonly referred to as a "dictatorship" of any one individual.
 <!-- (It might be better just to remove any possibility for self-reference entirely, but... I dunno... self-reference might be necessary to fix some other screw-ups...) -->
 
 == ARTICLE VII - Authority of This Constitution ==
@@ -539,7 +539,7 @@ In all criminal prosecutions, the accused shall enjoy the right to a speedy and 
 This assistance of Counsel shall be provided by the court if the accused is unable to pay for Counsel himself.
 
 === Amendment VII - Jury Trials ===  
-In suits at common law (as defined in Article III Section 2 of this Constitution), where the value in controversy shall exceed two hundred dollars, the right of trial by jury shall be preserved, and no fact tried by a jury, shall be otherwise re-examined in any Court of the United States, than according to the rules of the common law.
+In suits at common law (as defined in Article III, Section 2 of this Constitution), where the value in controversy shall exceed two hundred dollars, the right of trial by jury shall be preserved, and no fact tried by a jury, shall be otherwise re-examined in any Court of the United States, than according to the rules of the common law.
 Congress shall have the power to vary the amount of money for the value in controversy provided for in this Amendment, to match current rates of inflation or deflation, by passing appropriate legislation.
 
 === Amendment VIII - Freedom From Cruel and Unusual Punishment === 
@@ -575,7 +575,13 @@ But no person constitutionally ineligible to the office of President shall be el
 <!-- I had been considering doing something more complicated here at first, but further activism on the topic has convinced me that the best course of action is just to remove the "except as punishment for a crime" loophole here entirely, rather than trying to regulate it more precisely: -->
 Neither slavery nor involuntary servitude shall exist within the United States, or any place subject to their jurisdiction.
 
-==== Amendment XIII, Section 2 - Congressional Power of Enforcement ====
+
+==== Amendment XIII, Section 2 - Definition ====
+"Slavery" shall be defined as the ownership of any person by any other as if they were property, or any forced labor that one is forced to perform without fair pay.
+Taxation is not slavery, and any person who, upon failing to pay their fair share of taxes, claims otherwise in their defense, shall forfeit the protections provided for by this amendment.
+<!-- Emphasis on the word "NOT". "Claims otherwise" means claiming that taxation IS in fact slavery. -->
+
+==== Amendment XIII, Section 3 - Congressional Power of Enforcement ====
 Congress shall have power to enforce this article by appropriate legislation.
 
 === Amendment XIV ===
@@ -588,11 +594,11 @@ This section has been incorporated into the main body of the Constitution.
 Its number is retained for historical purposes.
 
 ==== Amendment XIV, Section 3 - Qualifications Against Former Members of the Confederacy ====
-No person shall be a Senator, Representative, or Assemblyperson in Congress, or elector of President and Vice-President, or hold any office, civil or military, under the United States, or under any State, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion or revolt against the same, or given aid or comfort to the enemies thereof.
+No person shall be a Senator, Representative, or Assemblyperson in Congress, or Executive Councilor, or elector of President and Vice-President, or hold any office, civil or military, under the United States, or under any State, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion or revolt against the same, or given aid or comfort to the enemies thereof.
 But Congress may by a vote of two-thirds of each of the three Houses, remove such disability.
 
 ==== Amendment XIV, Section 4 - Unquestionability of the National Debt ====
-The validity of the public debt of the United States, authorized by law or by necessity, including debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall not be questioned, nor shall it be arbitrarily limited to amounts of dollars that are in no way tied to the status of the national economy.
+The validity of the public debt of the United States, authorized by law or by necessity, including (but not limited to) debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall not be questioned, nor shall it be arbitrarily limited to amounts of dollars that are in no way tied to the status of the national economy.
 But neither the United States nor any State shall assume or pay any debt or obligation incurred in aid of insurrection or rebellion against the United States, or any claim for the loss or emancipation of any slave.
 But all such debts, obligations and claims shall be held illegal and void.
 
