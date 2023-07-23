@@ -366,7 +366,7 @@ The judicial Power of the United States, shall be vested in one Supreme Court, a
 The Supreme Court shall consist in an odd number of Justices, one of whom shall be designated the Chief Justice.
 Additional Justices, beyond the nine currently serving as of this revision to the Constitution, may be appointed by the usual nominations process for Supreme Court Justices, provided that the new number of Justices remain odd, and smaller than the maximum number of persons that may fit inside the Court's chambers.
 The Judges, both of the Supreme and Inferior Courts, shall hold their Offices during good behavior, and shall, at stated times, receive for their services, a compensation, which shall not be diminished during their Continuance in Office.
-Examples of bad behavior that shall cause a Judge to cease holding office shall include impeachment, conviction in cases of major crimes, and violations of any code of ethics that may be established for the Judiciary.
+Examples of bad behavior that shall cause a Judge to cease holding office shall include, but not be limited to, impeachment, conviction in cases of major crimes, and violations of any code of ethics that may be established for the Judiciary.
 No person shall be nominated to the office of Supreme Court Justice who has not ever appeared in a courtroom in any official capacity, whether it be as a judge, attorney, juror, bailiff, police officer, clerk, expert witness, or any other official position that a lower court may choose to establish.
 
 === Section 2 - Judicial Power ===
@@ -387,13 +387,16 @@ If any Justices dissent from the majority opinion of the Court, they shall issue
 While dissenting opinions shall not have the force of Precedent on their own, they may be cited in future opinions that overturn Precedent.
 Generally Courts should respect Precedent, and should only overturn Precedent when absolutely necessary.
 The Courts may interpret when it is "absolutely necessary" at their own discretion.
+Should the Courts interpret this subsection more expansively than is intended, the Congress may also limit the Courts' definition of "absolute necessity", by passing appropriate legislation.
 
 ==== Subsection 2.4 - Judicial Review ====
 In deciding a Case, the Supreme Court may decide that it needs the power of Judicial Review in order to correctly decide that case.
 In granting itself the power of Judicial Review, the Court may then strike down a law that is in question in the case at hand, on the grounds that that law is Unconstitutional.
 To do this, the opinion of the Court must cite the specific portion of the Constitution that the Law in question violates.
-Generally, the Court shall exercise restraint in granting itself the power of Judicial Review, as overturning a law desired by a majority of the people in a democratic republic is a serious matter.
+Generally, the Court shall exercise restraint in granting itself the power of Judicial Review, as overturning a law desired by a majority of the people in a democratic republic is a serious matter, with the potential to be seen as unjust, which is a perception that the Court should seek to avoid.
 For this reason, the Court shall only use the power of Judicial Review in cases where it could not decide the case fairly without otherwise doing so, or in cases where it is necessary to protect an oppressed minority from an oppressive majority.
+In determining whether a party is an "oppressed minority" or "oppressive majority", the Court shall apply material analysis of the relative power held by the parties within society.
+Thus, the Court may never consider extremely wealthy persons to be an "oppressed minority" when determining whether a case is eligible for Judicial Review or not. 
 The Supreme Court may not exercise the power of Judicial Review against any law that it simply believes to be Unconstitutional, unless a party to a lawsuit before the Court specifically makes the argument that the law is Unconstitutional.
 In other words, the opinions of the Court may not go farther in either direction than either of the parties in the case before the Court argue themselves.
 Furthermore, the Court may not create issues out of a case that neither of the parties before them in the case bring up themselves.
