@@ -367,7 +367,7 @@ The Supreme Court shall consist in an odd number of Justices, one of whom shall 
 Additional Justices, beyond the nine currently serving as of this revision to the Constitution, may be appointed by the usual nominations process for Supreme Court Justices, provided that the new number of Justices remain odd, and smaller than the maximum number of persons that may fit inside the Court's chambers.
 The Judges, both of the Supreme and Inferior Courts, shall hold their Offices during good behavior, and shall, at stated times, receive for their services, a compensation, which shall not be diminished during their Continuance in Office.
 Examples of bad behavior that shall cause a Judge to cease holding office shall include, but not be limited to, impeachment, conviction in cases of major crimes, and violations of any code of ethics that may be established for the Judiciary.
-No person shall be nominated to the office of Supreme Court Justice who has not ever appeared in a courtroom in any official capacity, whether it be as a judge, attorney, juror, bailiff, police officer, clerk, expert witness, or any other official position that a lower court may choose to establish.
+No person shall be nominated to the office of Supreme Court Justice who has not ever appeared in a courtroom in any official capacity, whether it be as a judge, attorney, juror, bailiff, police officer, clerk, expert witness, or any other official position that a lower court may choose to establish, provided that these positions remain open to all.
 
 === Article III, Section 2 - Judicial Power ===
 ==== Article III, Subsection 2.1 - Common Law ====
@@ -579,7 +579,7 @@ Neither slavery nor involuntary servitude shall exist within the United States, 
 ==== Amendment XIII, Section 2 - Definition ====
 "Slavery" shall be defined as the ownership of any person by any other as if they were property, or any forced labor that one is forced to perform without fair pay.
 Taxation is not slavery, and any person who, upon failing to pay their fair share of taxes, claims otherwise in their defense, shall forfeit the protections provided for by this amendment.
-<!-- Emphasis on the word "NOT". "Claims otherwise" means claiming that taxation IS in fact slavery. -->
+<!-- Emphasis on the word "NOT". "Claims otherwise" means claiming that taxation IS in fact slavery. (Adding this emphasis directly to the text itself doesn't seem quite appropriate, though, so it shall stay in this comment for now) -->
 
 ==== Amendment XIII, Section 3 - Congressional Power of Enforcement ====
 Congress shall have power to enforce this article by appropriate legislation.
