@@ -594,7 +594,7 @@ This section has been incorporated into the main body of the Constitution.
 Its number is retained for historical purposes.
 
 ==== Amendment XIV, Section 3 - Qualifications Against Former Members of the Confederacy ====
-No person shall be a Senator, Representative, or Assemblyperson in Congress, or Executive Councilor, or elector of President and Vice-President, or hold any office, civil or military, under the United States, or under any State, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion or revolt against the same, or given aid or comfort to the enemies thereof.
+No person shall be a Senator, Representative, or Assemblyperson in Congress, or Executive Councilor, or elector of President and Vice-President, or hold any office, civil or military, under the United States, or under any State, or be listed on a ballot for election to any of the preceding offices, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion or revolt against the same, or given aid or comfort to the enemies thereof.
 But Congress may by a vote of two-thirds of each of the three Houses, remove such disability.
 
 ==== Amendment XIV, Section 4 - Unquestionability of the National Debt ====
