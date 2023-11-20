@@ -474,7 +474,7 @@ If a Constitutional Convention is called by the methods prescribed herein, the C
 
 === Article VI, Section 3 - Self-Reference ===
 <!-- An attempt to close what some have hypothesized to be the Gödel Loophole: -->
-While amendments to this Constitution may edit this Article self-referentially, amendments made in this manner shall not be used to give any individual person any greater power to modify the Constitution on their own than any other individual person possesses, nor shall any amendments made in this manner cause the United States government to be transformed into any form of government resembling what is commonly referred to as a "dictatorship" of any one individual.
+While amendments to this Constitution may edit this Article self-referentially, amendments made in a self-referential manner as such shall not be used to give any individual person any greater power to modify the Constitution on their own than any other individual person either currently possesses, or would possess under the amended Constitution, nor shall any amendments made in this manner cause the United States government to be transformed into any form of government resembling what is commonly referred to as a "dictatorship" of any one individual.
 <!-- (It might be better just to remove any possibility for self-reference entirely, but... I dunno... self-reference might be necessary to fix some other screw-ups...) -->
 
 == ARTICLE VII - Authority of This Constitution ==
