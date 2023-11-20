@@ -471,6 +471,8 @@ The Congress shall have the power to request that the Legislatures of the severa
 
 === Article VI, Section 2 - Extra Accommodations Required for Constitutional Conventions ===
 If a Constitutional Convention is called by the methods prescribed herein, the Congress, the President, the Vice President, the Executive Council, and the Supreme Court shall all work together to facilitate the Convention, and to make sure that all citizens without their own means of attendance are provided with means of attendance.
+For the purposes of this Section, virtual attendance shall count as a means of attendance.
+All attendees at such a Convention shall be given an equal opportunity to participate regardless of whether their mode of attendance is virtual or in-person.
 
 === Article VI, Section 3 - Self-Reference ===
 <!-- An attempt to close what some have hypothesized to be the Gödel Loophole: -->
