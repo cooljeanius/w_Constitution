@@ -336,7 +336,7 @@ As pairings are liable to shift with population changes, any term limits that ma
 No person shall be an Executive Councilor who shall not have attained to the age of forty years, and been twenty years a citizen of the United States, and who shall not, when elected, be a legal inhabitant of the smaller of the two States in the pairing of states for which he shall be chosen.
 
 ==== Article II, Subsection 5.3 - Duties, Responsibilities, and Powers of the Executive Council ====
-The Executive Council shall assist the President in the distribution of his executive orders amongst the various departments to which the given executive order is relevant.
+The Executive Council shall assist the President in the distribution of his executive orders amongst the various departments to which the given executive order is relevant, and may, at their discretion, supplement any such executive orders with their own interpretations of how the executive order is to be implemented.
 
 <!-- TODO: compare with NH Executive Council input on pardons: -->
 The Executive Council shall assist the President in deciding which Reprieves and Pardons to grant, and, if necessary, may vote to override any Reprieves and Pardons that they determine, by a two-thirds vote, to have been corruptly granted, or to pose a danger to the Republic.
