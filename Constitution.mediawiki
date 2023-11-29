@@ -269,7 +269,7 @@ The executive power shall be vested in the Executive Branch of Government, heade
 
 === Article II, Section 2 - Election of The President and Vice President === 
 ==== Article II, Subsection 2.1 - The Electoral College ====
-The President shall hold his Office during the term of four years, and, together with the Vice President, chosen for the same Term, be elected, as follows:
+The President shall be an Officer of the United States who shall hold the Office during the term of four years, and, together with the Vice President, chosen for the same Term, be elected, as follows:
 
 <!-- (this is adapted from the 12th Amendment; might want to cut down on the redundancy...) -->
 Each State shall appoint, in such Manner as the Legislature thereof may direct, a Number of Electors, equal to the whole Number of Senators and Representatives to which the State may be entitled in the Congress: but no Senator or Representative, or Person holding an Office of Trust or Profit under the United States, shall be appointed an Elector.
@@ -303,7 +303,7 @@ No person shall eligible for the Office of the Vice President, who does not meet
 In case of the removal of the President from Office, or of his death, resignation, or inability to discharge the powers and duties of the said office, the same shall devolve on the Vice President, and the Congress may by law provide for the case of removal, death, resignation or inability, both of the President and Vice President, declaring what Officer shall then act as President, and such Officer shall act accordingly, until the disability be removed, or a President shall be elected.
 
 ==== Article II, Subsection 2.4 - The Oath of Office ====
-Before he enter on the Execution of his Office, he shall take the following Oath or Affirmation:—“I do solemnly swear (or affirm) that I will faithfully execute the Office of President of the United States, and will to the best of my Ability, preserve, protect and defend the Constitution of the United States.”
+Before he enter on the Execution of his Office, he shall take the following Oath or Affirmation:—“I do solemnly swear (or affirm) that I will faithfully execute the Office of President of the United States, and will to the best of my Ability, preserve, protect, support, and defend the Constitution of the United States.”
 The Chief Justice of the Supreme Court shall be responsible for administering this Oath or Affirmation to the President.
 <!-- TODO: reread that book on how John Roberts screwed up administering the Oath to Obama, and adapt this section accordingly: https://en.wikipedia.org/wiki/The_Oath:_The_Obama_White_House_and_the_Supreme_Court -->
 
@@ -596,8 +596,8 @@ No State shall make or enforce any law which shall abridge the privileges or imm
 This section has been incorporated into the main body of the Constitution.
 Its number is retained for historical purposes.
 
-==== Amendment XIV, Section 3 - Qualifications Against Former Members of the Confederacy ====
-No person shall be a Senator, Representative, or Assemblyperson in Congress, or Executive Councilor, or elector of President and Vice-President, or hold any office, civil or military, under the United States, or under any State, or be listed on a ballot for election to any of the preceding offices, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion or revolt against the same, or given aid or comfort to the enemies thereof.
+==== Amendment XIV, Section 3 - Qualifications Against Former Members of the Confederacy, and Other Similar Such Insurrectionists ====
+No person shall be a Senator, Representative, or Assemblyperson in Congress, or Executive Councilor, or elector of President and Vice-President, or hold any office, civil or military, under the United States, or under any State, or be listed on a ballot for election to any of the preceding offices, who, having previously taken an oath, or affirmed to the same effect, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support, preserve, protect, or defend the Constitution of the United States, or to take any combination of any of the set of preceding actions, or similar actions, regarding said Constitution, shall have engaged in insurrection or rebellion or revolt against the same, or given aid or comfort to the enemies thereof.
 But Congress may by a vote of two-thirds of each of the three Houses, remove such disability.
 
 ==== Amendment XIV, Section 4 - Unquestionability of the National Debt ====
