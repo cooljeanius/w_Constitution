@@ -516,7 +516,7 @@ In cases where one person's freedom of speech may come into conflict with anothe
 The "Establishment Clause" and "Free Exercise Clause" in Section 1 of this amendment are intended to maintain a Separation of Church and State, while the rest of the freedoms guaranteed in Section 1 of this amendment are intended to promote the free and reasoned discourse necessary for the betterment of government, and as such, shall be interpreted accordingly.
 
 === Amendment II - Freedom of Self-Defense ===
-A well regulated Militia, being necessary for the security and defense of a free state, the collective right of the people to keep and bear arms as a militia, shall not be infringed.
+A well regulated Militia, being necessary for the security and defense of a free state, the collective right of the people to keep and bear arms as part of the aforementioned well regulated militia, shall not be infringed.
 However, an individual's right to keep and bear arms may be regulated so far as is necessary to ensure the public safety.
 Also, no person, who is conscientiously scrupulous about the lawfulness or morality of bearing arms, shall be compelled to serve in a militia or otherwise bear arms against their will.
 No provision of this amendment shall be construed so as to override or infringe upon any other right guaranteed by this Bill of Rights.
