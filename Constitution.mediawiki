@@ -458,8 +458,8 @@ No person shall be barred from candidacy for any election held by the United Sta
 === Article V, Section 4 - Counting the Votes ===
 All election officials shall ensure that all voters are able to know that their votes were successfully counted for the candidates for whom they intended to cast their votes, should said voters desire this information.
 This shall be done in a manner consistent with the anonymity of the ballots, such that only the voter desiring this information receives it.
-<!-- How exactly to solve the apparent paradox of making this information available and yet anonymous remains an implementation detail that would be done by statute instead of here.
-Perhaps it would be done in the method of double-blind scientific experiments, or with UUIDs or other sorts of cryptographic hashes... -->
+<!-- How exactly to solve the apparent paradox of making this information available and yet anonymous remains an implementation detail that would be done by statute instead of here. -->
+<!-- Perhaps it would be done in the method of double-blind scientific experiments, or with UUIDs or other sorts of cryptographic hashes... -->
 
 == Article VI - Amending The Constitution ==
 
@@ -503,12 +503,14 @@ Congress shall ensure that not only are these rights not violated in a negative 
 
 === Amendment I - Freedom of Thought and Expression === 
 ==== Amendment I, Section 1 - Rights Protected ====
-Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof (unless said free exercise would violate one of the other freedoms outlined in this Bill of Rights); or abridging the freedom of speech of the people, or abridging the freedom of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances; or abridging the right of freedom of conscience.
+Neither Congress nor any State shall make any law respecting an establishment of religion, or prohibiting the free exercise thereof (unless said free exercise would violate one of the other freedoms outlined in this Bill of Rights); or abridging the freedom of speech of the people, or abridging the freedom of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances; or abridging the right of freedom of conscience.
+Furthermore, no president shall issue any executive order that abridges any of these rights, either.
 
 ==== Amendment I, Section 2 - Applicability ====
 All freedoms protected in this amendment shall apply only to the set of unique human beings described in the Preamble of this Constitution.
 "Freedom of speech" as used in this amendment is meant more in the sense of the Greek word "isegoria" (an equal chance to speak freely) than it is in the sense of the Greek word "parrhesia" (license to say whatever one wishes).
 Furthermore, the guarantee of freedom of speech does not imply a freedom to force others to listen to said speech, nor shall freedom of speech be thought to abridge the freedom of others to choose those with whom they wish to associate.
+In cases where one person's freedom of speech may come into conflict with another's similar and equal freedom of speech, and it becomes necessary to decide which speech to favor, preference shall be given to true speech over false speech, honest speech over deceptive speech, kind speech over hurtful speech, loving speech over hateful speech, and the speech of the less powerful over the speech of the more powerful.
 
 ==== Amendment I, Section 3 - Purpose ====
 The "Establishment Clause" and "Free Exercise Clause" in Section 1 of this amendment are intended to maintain a Separation of Church and State, while the rest of the freedoms guaranteed in Section 1 of this amendment are intended to promote the free and reasoned discourse necessary for the betterment of government, and as such, shall be interpreted accordingly.
