@@ -356,6 +356,7 @@ When the President signs into law a budget passed by Congress, if that budget pr
 
 === Article II, Section 6 - Removal From Office, and Compensation for Services ===
 The President, Vice President, Cabinet, Executive Council, and all other Civil Officers in the Executive Branch of the United States, shall be removed from Office on Impeachment for and conviction of, treason, bribery, or other high crimes and felonies.
+Any impeachable offense may also be prosecuted under normal legal procedures regardless of if and when impeachment proceedings are also being held with regards to those offenses.
 
 The President, Vice President, Cabinet, Executive Council, and all other Civil Officers in the Executive Branch of the United States shall, at stated times, receive for their Services, a compensation, which shall neither be increased nor diminished during the period for which those of them that have been elected shall have been elected, and they shall not receive within that Period any other Emolument from the United States, or any of single one of the states.
 
