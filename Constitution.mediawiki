@@ -512,9 +512,10 @@ All freedoms protected in this amendment shall apply only to the set of unique h
 "Freedom of speech" as used in this amendment is meant more in the sense of the Greek word "isegoria" (an equal chance to speak freely) than it is in the sense of the Greek word "parrhesia" (license to say whatever one wishes).
 Furthermore, the guarantee of freedom of speech does not imply a freedom to force others to listen to said speech, nor shall freedom of speech be thought to abridge the freedom of others to choose those with whom they wish to associate.
 In cases where one person's freedom of speech may come into conflict with another's similar and equal freedom of speech, and it becomes necessary for a court to decide which speech to favor, preference shall be given to true speech over false speech, honest speech over deceptive speech, kind speech over hurtful speech, loving speech over hateful speech, and the speech of the less powerful over the speech of the more powerful.
+<!-- TODO: come up with some sort of "earnestness" test to distinguish between good-faith exercises of these freedoms from bad-faith trolling -->
 
 ==== Amendment I, Section 3 - Purpose ====
-The "Establishment Clause" and "Free Exercise Clause" in Section 1 of this amendment are intended to maintain a Separation of Church and State, while the rest of the freedoms guaranteed in Section 1 of this amendment are intended to promote the free and reasoned discourse necessary for the betterment of government, and as such, shall be interpreted accordingly.
+The "Establishment Clause" and "Free Exercise Clause" in Section 1 of this amendment are intended to maintain a Separation of Church and State, while the rest of the freedoms guaranteed in Section 1 of this amendment are intended to promote the free and reasoned discourse necessary for the betterment of government, and as such, shall be interpreted accordingly, within reason.
 
 === Amendment II - Freedom of Self-Defense ===
 A well regulated Militia, being necessary for the security and defense of a free state, the collective right of the people to keep and bear arms as part of the aforementioned well regulated militia, or as part of a duly organized labor union or tenants' union, shall not be infringed.
