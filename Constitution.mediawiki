@@ -607,8 +607,10 @@ This section has been incorporated into the main body of the Constitution.
 Its number is retained for historical purposes.
 
 ==== Amendment XIV, Section 3 - Qualifications Against Former Members of the Confederacy, and Other Similar Such Insurrectionists ====
-No person shall be a Senator, Representative, or Assemblyperson in Congress, or Executive Councilor, or elector of President and Vice-President, or hold any office, civil or military, under the United States, or under any State, or be listed on a ballot for election to any of the preceding offices, who, having previously taken an oath, or affirmed to the same effect, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support, preserve, protect, or defend the Constitution of the United States, or to take any combination of any of the set of preceding actions, or similar actions, regarding said Constitution, shall have engaged in insurrection or rebellion or revolt against the same, or given aid or comfort to the enemies thereof.
+No person shall be a Senator, Representative, or Assemblyperson in Congress, or Executive Councilor, or elector of President and Vice-President, or hold any office, civil or military, under the United States, or under any State, or be listed on a ballot for election to any of the preceding offices, who, having previously taken an oath, or affirmed to the same effect, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support, preserve, protect, or defend the Constitution of the United States, or to take any combination of any of the set of preceding actions, or similar actions, regarding said Constitution, shall have engaged in insurrection or rebellion or revolt against the same, or given aid or comfort to specific enemies thereof.
+This additional qualification for office shall be interpreted as being self-executing.
 But Congress may by a vote of two-thirds of each of the three Houses, remove such disability.
+Court proceedings held to determine whether or not a specific person is disqualified from holding office under this section shall count as due process of law.
 
 ==== Amendment XIV, Section 4 - Unquestionability of the National Debt ====
 The validity of the public debt of the United States, authorized by law or by necessity, including (but not limited to) debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall not be questioned, nor shall it be arbitrarily limited to amounts of dollars that are in no way tied to the status of the national economy.
@@ -675,6 +677,7 @@ The article shall be inoperative unless it shall have been ratified as an amendm
 === Amendment XXII - Presidential Term Limits ===
 ==== Amendment XXII, Section 1 - Term Limits ====
 No person shall be elected to the office of the President more than twice, and no person who has held the office of President, or acted as President, for more than two years of a term to which some other person was elected President shall be elected to the office of the President more than once.
+No person shall be listed on a ballot for election to the office of the President, who would be ineligble to hold said office under the terms of this Amendment.
 But this Article shall not apply to any person holding the office of President, when this Article was proposed by the Congress, and shall not prevent any person who may be holding the office of President, or acting as President, during the term within which this Article becomes operative from holding the office of President or acting as President during the remainder of such term.
 
 ==== Amendment XXII, Section 2 - Ratification ====
@@ -738,6 +741,7 @@ This amendment shall take effect two years after the date of ratification.
 === Amendment XXIX - Child Labor Amendment ===
 ==== Amendment XXIX, Section 1 - Congressional Power to Regulate Child Labor ====
 The Congress shall have power to limit, regulate, and prohibit the labor of persons who are under the age majority (which, at the time of the writing of this amendment, is defined as the age of eighteen years old, but may be changed by Congress with appropriate legislation).
+<!-- (make sure to keep this synced with Amendment XXVI) -->
 
 ==== Amendment XXIX, Section 2 - Federalism Exception ==== 
 The power of the several States is unimpaired by this article except that the operation of State laws shall be suspended to the extent necessary to give effect to legislation enacted by the Congress.
