@@ -63,7 +63,7 @@ Each State shall have at least one Representative for each Senator that they hav
 No upper limit may be placed on the total number of Representatives to sit in the House, save for ones based on the space required to seat all representatives in the same chamber.
 
 <!-- This next part is meant to fight gerrymandering: -->
-While States may choose to have their voters either select their Representatives by Congressional Districts, or by elections At-Large, or by whatever other fair method the States may reasonably determine, if a State is to use the Congressional Districts method of dividing up its residents, these Districts shall be drawn in a fair manner that reflects existing geographical regions within the State, so far as this can be done while still respecting the principle of "One Person, One Vote," at the same time.
+While States may choose to have their voters either select their Representatives by Congressional Districts, or by elections At-Large, or by whatever other fair method the States may reasonably determine, if a State is to use the Congressional Districts method of dividing up its residents, these Districts shall be drawn in a fair manner that reflects existing contiguous geographical regions within the State, so far as this can be done while still respecting the principle of "One Person, One Vote," at the same time.
 The Congress shall have the power to set exact criteria for fairness in the drawing of Congressional Districts, by passing appropriate legislation.
 
 ==== Article I, Subsection 2.4 - Vacancies in the House ====
