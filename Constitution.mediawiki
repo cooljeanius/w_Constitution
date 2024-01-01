@@ -688,6 +688,7 @@ This article shall be inoperative unless it shall have been ratified as an amend
 <!-- Section 3 addresses DC Statehood, but I might need to go further and change some language in this section, too: -->
 The District constituting the seat of Government of the United States shall appoint in such manner as the Congress may direct: A number of electors of President and Vice President equal to the whole number of Senators and Representatives in Congress to which the District is entitled (which are calculated as if it were a State), but in no event more than the least populous State; they shall be in addition to those appointed by the States, but they shall be considered, for the purposes of the election of President and Vice President, to be electors appointed by a State; and they shall meet in the District and perform such duties as provided by the twelfth article of amendment.
 <!-- (if the 12th Amendment gets rewritten to reflect that it's now directly included in the Constitution, be sure to reflect that here, as well) -->
+While the Electors of the District are meeting in the District to perform said duties, they shall be granted the same immunities that Congresspeople are granted under the "Speech and Debate" clause outlined in Article I, Section 7 of this Constitution.
 
 ==== Amendment XXIII, Section 2 - Congressional Power of Enforcement ==== 
 The Congress shall have power to enforce this article by appropriate legislation.
