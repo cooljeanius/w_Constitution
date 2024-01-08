@@ -460,16 +460,20 @@ The United States shall guarantee to every State in this Union a Republican Form
 The day on which the United States holds its elections shall be a national holiday.
 On this day, the federal government shall sponsor celebrations and ceremonies designed to promote the sense of civic duty to vote in the citizenry, in a manner to be determined by law.
 
-=== Article V, Section 2 - Balloting and Voting Method ===
+=== Article V, Section 2 - Voter Registration ===
+All jurisdictions within the United States that require voters to register before voting shall ensure that the registration process is as easy and as automatic as is possible, for all persons eligible to register to vote in that jurisdiction.
+<!-- (N.B. there are some jurisdictions that, as of the time of writing, don't require voter registration, specifically, North Dakota, currently. Such jurisdictions would not be affected by this section.) -->
+
+=== Article V, Section 3 - Balloting and Voting Method ===
 All voters in elections held by the United States shall be guaranteed an anonymous preference ballot, that is, a ballot in which the voter ranks the candidates ordinally in accordance with his or her preferences.
 The exact method for tallying these preference votes shall be decided by law, but the method chosen shall meet as many of the mathematical criteria for a desirable election method as is reasonably possible.
 <!-- (Of course, Arrow's Theorem says it's impossible to meet them all, so that's why it's "as is reasonably possible") -->
 
-=== Article V, Section 3 - Candidates and Political Parties ===
+=== Article V, Section 4 - Candidates and Political Parties ===
 No person shall be barred from candidacy for any election held by the United States on the basis of his or her membership in any political party, or by his or her lack of any such membership whatsoever.
 <!-- TODO: more stuff about political parties -->
 
-=== Article V, Section 4 - Counting the Votes ===
+=== Article V, Section 5 - Counting the Votes ===
 All election officials shall ensure that all voters are able to know that their votes were successfully counted for the candidates for whom they intended to cast their votes, should said voters desire this information.
 This shall be done in a manner consistent with the anonymity of the ballots, such that only the voter desiring this information receives it.
 <!-- How exactly to solve the apparent paradox of making this information available and yet anonymous remains an implementation detail that would be done by statute instead of here: -->
