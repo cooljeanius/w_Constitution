@@ -38,7 +38,7 @@ We, the People, the unique human beings making up the populace of these United S
 == Article I - The Legislative Branch ==
 
 === Article I, Section 1 - Overview of the Legislative Branch ===
-<!-- Since I made the Senate worse (since we can't get rid of it), I moved to a "best two out of three" system with a third chamber to make up for it, so that the Senate may effectively be ignored: -->
+<!-- Since I made the Senate worse (since we cannot get rid of it), I moved to a "best two out of three" system with a third chamber to make up for it, so that the Senate may effectively be ignored: -->
 All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate, a House of Representatives, and a General Assembly.
 
 === Article I, Section 2 - The House of Representatives ===
@@ -241,7 +241,7 @@ If the Privilege of the Writ of Habeas Corpus has been suspended in accordance w
 No Bill of Attainder targeting any person in the bottom 99 percentiles of the country's wealth distribution shall be passed.
 <!-- I considered adding another exception here to allow for Bills of Attainder against insurrectionists as defined by the 14th Amendment, but decided against that because: -->
 <!-- - I failed to figure out how to word it -->
-<!-- - The cases I'm most worried about would fall under the wealth exception for the top 1% anyways -->
+<!-- - The cases I am most worried about would fall under the wealth exception for the top 1% anyways -->
 <!-- - Adding a second exception would be ripe with potential for abuse -->
 
 No ex post facto Law shall be passed.
@@ -282,7 +282,7 @@ The President shall be an Officer of the United States who shall hold the Office
 <!-- (this is adapted from the 12th Amendment; might want to cut down on the redundancy...) -->
 Each State shall appoint, in such Manner as the Legislature thereof may direct, a Number of Electors, equal to the whole Number of Senators and Representatives to which the State may be entitled in the Congress: but no Senator or Representative, or Person holding an Office of Trust or Profit under the United States, shall be appointed an Elector.
 The method for states appointing electors must be a method that is fair and reasonably approximates the will of the people of each state, in proportion to the preferences of said people as expressed by a popular vote.
-<!-- (a better way to go would probably just be to abolish the Electoral College entirely, but that would require writing something entirely new from scratch, and I'd rather just tinker for now...) -->
+<!-- (a better way to go would probably just be to abolish the Electoral College entirely, but that would require writing something entirely new from scratch, and I would rather just tinker for now...) -->
 
 The Electors shall meet in their respective states, and vote by ballot for President and Vice-President, one of whom, at least, shall not be an inhabitant of the same state with themselves; they shall name in their ballots the person voted for as President, and in distinct ballots the person voted for as Vice-President.
 These votes shall reflect the vote of the people of the electors' respective states.
@@ -475,6 +475,7 @@ This shall be done in a manner consistent with the anonymity of the ballots, suc
 <!-- How exactly to solve the apparent paradox of making this information available and yet anonymous remains an implementation detail that would be done by statute instead of here: -->
 Congress shall have the power to resolve any tensions between these criteria for vote-counting, by passing appropriate legislation.
 <!-- Perhaps it would be done in the method of double-blind scientific experiments, or with UUIDs or other sorts of cryptographic hashes... -->
+<!-- (please don't misunderstand my suggestion of cryptographic hashes to imply that I am suggesting anything to do with blockchains, though, as, according to Matt Blaze, those fail to solve the problem) -->
 
 == Article VI - Amending The Constitution ==
 
@@ -588,7 +589,7 @@ This Amendment is subordinate to the Supremacy Clause found in Article VII of th
 The Judicial power of the United States shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State.
 
 === Amendment XII - Restatement of the Presidential Election Method ===
-<!-- I've tried rewriting this amendment into the body of the Constitution; may need to harmonize, or, if it's already harmonized, just remove the text here and replace it with the "This Amendment's topic has been rewritten directly in the body of the Constitution. Its number is retained for historical purposes," language that I use for other amendments: -->
+<!-- I have tried rewriting this amendment into the body of the Constitution; may need to harmonize, or, if it's already harmonized, just remove the text here and replace it with the "This Amendment's topic has been rewritten directly in the body of the Constitution. Its number is retained for historical purposes," language that I use for other amendments: -->
 The Electors shall meet in their respective states, and vote by ballot for President and Vice-President, one of whom, at least, shall not be an inhabitant of the same state with themselves; they shall name in their ballots the person voted for as President, and in distinct ballots the person voted for as Vice-President, and they shall make distinct lists of all persons voted for as President, and of all persons voted for as Vice-President and of the number of votes for each, which lists they shall sign and certify, and transmit sealed to the seat of the government of the United States, directed to the President of the Senate;
 
 The President of the Senate shall, in the presence of the Senate and House of Representatives, open all the certificates and the votes shall then be counted.
@@ -715,7 +716,7 @@ While the Electors of the District are meeting in the District to perform said d
 The Congress shall have power to enforce this article by appropriate legislation.
 
 ==== Amendment XXIII, Section 3 - Provisions for Changes in the Status of the District ====
-<!-- what I'm trying to say here is "no more, no fewer" but I kinda trapped myself into awkward wording: -->
+<!-- what I am trying to say here is "no more, no fewer" but I kinda trapped myself into awkward wording: -->
 Should the District at any point be admitted as a State to the Union as provided under Article IV of this Constitution, this Amendment shall not be construed to give the District any number of electors that is different from that which it would have if it were any other State of a similar size.
 
 === Amendment XXIV - Freedom From Poll Taxes ===
