@@ -194,7 +194,9 @@ To promote the progress of science and useful arts, by securing for limited time
 
 To edify the culture of the American populace, by funding the construction of libraries, theaters, and other cultural institutions;
 
-To provide for, fund, and promote the education of American schoolchildren,
+To provide for, fund, and promote the education of American schoolchildren;
+
+To ensure that everyone in the country is adequately housed;
 
 To promote the civil rights of the country's populace;
 
@@ -212,13 +214,15 @@ To provide and maintain a Navy;
 
 To provide and maintain an Air Force;
 
-To make Rules for the Government and Regulation of the land, naval, and air forces;
+To provide and maintain a Space Force;
+
+To make Rules for the Government and Regulation of the land, naval, air, and space forces;
 
 To provide for calling forth the Militia to execute the Laws of the Union, suppress unlawful insurrections, and repel invasions;
 
 To provide for organizing, arming, and disciplining, the Militia, and for governing such Part of them as may be employed in the Service of the United States, reserving to the States respectively, the Appointment of the Officers, and the Authority of training the Militia according to the discipline prescribed by Congress;
 
-To exercise concurrent Legislation with a local Government body, over such District (not exceeding ten Miles square) as may, by Cession of Particular States, and the Acceptance of Congress, become the Seat of the Government of the United States, and which shall be treated as if it were a state of equivalent size for purposes of representation in Congress; 
+To exercise concurrent Legislation with a local Government body, over such District (not exceeding ten Miles square) as may, by Cession of Particular States, and the Acceptance of Congress, become the Seat of the Government of the United States, and which, if it does not also become its own state, shall be treated as if it were a state of equivalent size for purposes of representation in Congress; 
 
 To exercise like Authority over all Places purchased by the Consent of the Legislature of the State in which the Same shall be, for the Erection of Forts, Magazines, Arsenals, dock-Yards and other needful Buildings;—And
 
@@ -314,7 +318,7 @@ The Chief Justice of the Supreme Court shall be responsible for administering th
 
 === Article II, Section 3 - Powers of The President ===
 <!-- TODO: limit Commander in Chief powers further -->
-The President shall be Commander in Chief of the Army, Navy, and Air Force of the United States, and of the Militia of the several States, when called by the Congress into the actual Service of the United States, provided, however, that his actions as Commander in Chief are not repugnant in any way to any other part of this Constitution, or to any laws established thereunder, or to any international agreements into which the United States has entered.
+The President shall be Commander in Chief of the Army, Navy, Air Force, and Space Force of the United States, and of the Militia of the several States, when called by the Congress into the actual Service of the United States, provided, however, that his actions as Commander in Chief are not repugnant in any way to any other part of this Constitution, or to any laws established thereunder, or to any international agreements into which the United States has entered.
 The President may also require the opinion, in writing, of the principal Officer in each of the executive Departments, upon any subject relating to the duties of their respective Offices, and he shall have power to grant Reprieves and Pardons for offenses against the United States, except in cases of Impeachment, or in cases where the offender is the President himself, or a person in his employ, or a person acting upon his orders, or a person holding an office to which they were nominated by the President.
 
 He shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Senators present concur; and he shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the Supreme Court, and all other Officers of the United States, whose Appointments are not herein otherwise provided for, and which shall be established by Law: but the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments.
@@ -322,7 +326,7 @@ He shall have Power, by and with the Advice and Consent of the Senate, to make T
 The President shall have Power to fill up all Vacancies that may happen or exist during the Recess of the Senate, by granting Commissions which shall expire at the end of their next full session in which they conduct business.
 
 === Article II, Section 4 - Responsibilities of The President ===
-The President shall from time to time give to the Congress Information on the State of the Union in whatever form he sees fit (whether it be a speech or other method of communication), and recommend to their consideration such measures as he shall judge necessary and expedient; he may, on extraordinary Occasions, convene all three Houses, or any combination of them, or any single House, and in case of disagreement among them or between any two of them, with respect to the time of adjournment, he may adjourn them to such time as he shall think proper; he shall receive ambassadors and other public ministers; he shall take care that the Laws be faithfully executed, and shall commission all the Officers of the United States.
+The President shall from time to time give to the Congress Information on the State of the Union in whatever form he sees fit (whether it be a speech or other method of communication), and recommend to their consideration such measures as he shall judge necessary and expedient; he may, on extraordinary Occasions, convene all three Houses, or any combination of them, or any single House, and in case of disagreement among them or between any two of them, with respect to the time of adjournment, he may adjourn them to such time as he shall think proper; he shall receive ambassadors and other public ministers; he shall take care that the Laws be faithfully executed, and shall commission all other Officers of the United States besides himself.
 
 === Article II, Section 5 - The Executive Council ===
 ==== Article II, Subsection 5.1 - Election of Executive Councilors ====
@@ -358,6 +362,9 @@ The Executive Council shall be responsible for the smooth functioning of Executi
 
 <!-- TODO: compare with the language in the NH Constitution for the Executive Council's approval of contracts: -->
 When the President signs into law a budget passed by Congress, if that budget provides for the spending of money in a way to be determined by the President, without naming a specific entity with whom the President must contract for the spending of that money, the President must submit his own choice of a specific entity with whom to contract for the spending of that money to the Executive Council, who must then vote to approve or disapprove that contract.
+
+<!-- TODO: One other duty of NH's Executive Council is that of Transportation hearings (GACIT); see if something similar can be created with regards to the Federal Department of Transportation... maybe something like this? -->
+Members of the Executive Council shall be responsible for ensuring that transportation is possible between both members of the pairing of states which they represent.
 
 === Article II, Section 6 - Removal From Office, and Compensation for Services ===
 The President, Vice President, Cabinet, Executive Council, and all other Civil Officers in the Executive Branch of the United States, shall be removed from Office on Impeachment for and conviction of, treason, bribery, or other high crimes and felonies.
@@ -436,14 +443,14 @@ And the Congress may by general Laws prescribe the Manner in which such Acts, Re
 === Article IV, Section 2 - Jurisdiction of States ===
 The Citizens of each State shall be entitled to all Privileges and Immunities of Citizens in the several States.
 
-A Person charged in any State with Treason, Felony, or other Crime, who shall flee from Justice, and be found in another State, shall on Demand of the executive Authority of the State from which he fled, be delivered up, to be removed to the State having Jurisdiction of the Crime.
+A Person charged in any State or District with Treason, Felony, or other Crime, who shall flee from Justice, and be found in another State or District, shall on Demand of the executive Authority of the State or District from which he or she fled, be delivered up, to be removed to the State or District having Jurisdiction of the Crime.
 
 === Article IV, Section 3 - New States ===
 <!-- I think I tweaked some stuff in here for the purposes of DC Statehood; it might need further tweaking, though: -->
 New States may be admitted by the Congress into this Union; but no new State shall be formed or erected within the active Jurisdiction of any other State; nor shall any State be formed by the Junction of two or more States, or parts of States, without the consent of the Legislatures of the individual States concerned, in addition to the consent of the Congress of the United States.
 This restriction does not apply to areas that were historically once parts of States, but that, at the time of admission into the Union, no longer have such a status.
 
-The Congress shall have Power to dispose of and make all needful Rules and Regulations respecting the Territory or other Property belonging to the United States; and nothing in this Constitution shall be so construed as to prejudice any claims of the United States, or of any particular State.
+The Congress shall have Power to dispose of and make all needful Rules and Regulations respecting the Territory or other Property belonging to the United States; and nothing in this Constitution shall be so construed as to prejudice any claims of the United States, or of any particular State, with an exception that if the State in question is also the District that serves as the Seat of the Government of the United States, then prejudice may be held in favor of it insofar as is necessary for it to fulfill its duties as the District that serves as the Seat of Government.
 
 === Article IV, Section 4 - Protection of States ===
 The United States shall guarantee to every State in this Union a Republican Form of Government with Democratically-held elections, and shall protect each of them against Invasion; and on Application of the Legislature, or of the Executive (when the Legislature cannot be convened) against domestic Violence.
@@ -451,7 +458,7 @@ The United States shall guarantee to every State in this Union a Republican Form
 == Article V - National Elections ==
 === Article V, Section 1 - Holiday Status of Election Day ===
 The day on which the United States holds its elections shall be a national holiday.
-On this day, the federal government shall sponsor celebrations and ceremonies designed to instill a sense of civic duty in the citizenry, in a manner to be determined by law.
+On this day, the federal government shall sponsor celebrations and ceremonies designed to promote the sense of civic duty to vote in the citizenry, in a manner to be determined by law.
 
 === Article V, Section 2 - Balloting and Voting Method ===
 All voters in elections held by the United States shall be guaranteed an anonymous preference ballot, that is, a ballot in which the voter ranks the candidates ordinally in accordance with his or her preferences.
@@ -459,12 +466,14 @@ The exact method for tallying these preference votes shall be decided by law, bu
 <!-- (Of course, Arrow's Theorem says it's impossible to meet them all, so that's why it's "as is reasonably possible") -->
 
 === Article V, Section 3 - Candidates and Political Parties ===
-No person shall be barred from candidacy for any election held by the United States on the basis of his membership in any political party, or by his lack of any such membership whatsoever.
+No person shall be barred from candidacy for any election held by the United States on the basis of his or her membership in any political party, or by his or her lack of any such membership whatsoever.
+<!-- TODO: more stuff about political parties -->
 
 === Article V, Section 4 - Counting the Votes ===
 All election officials shall ensure that all voters are able to know that their votes were successfully counted for the candidates for whom they intended to cast their votes, should said voters desire this information.
 This shall be done in a manner consistent with the anonymity of the ballots, such that only the voter desiring this information receives it.
-<!-- How exactly to solve the apparent paradox of making this information available and yet anonymous remains an implementation detail that would be done by statute instead of here. -->
+<!-- How exactly to solve the apparent paradox of making this information available and yet anonymous remains an implementation detail that would be done by statute instead of here: -->
+Congress shall have the power to resolve any tensions between these criteria for vote-counting, by passing appropriate legislation.
 <!-- Perhaps it would be done in the method of double-blind scientific experiments, or with UUIDs or other sorts of cryptographic hashes... -->
 
 == Article VI - Amending The Constitution ==
@@ -497,6 +506,11 @@ In the case that a state does disobey this provision and makes a law to the cont
 === Article VII, Section 3 - Responsibility of Public Officials to Uphold this Constitution ===
 The Senators, Representatives, and Assemblypersons before mentioned, and the Members of the several State Legislatures, and all executive Officers including but not limited to the President, Vice President, and Executive Councilors, and judicial Officers including but not limited to the Justices of the Supreme Court, both of the United States and of the several States, shall be bound by Oath or Affirmation, to support this Constitution; but no religious Test shall ever be required as a Qualification to any Office or public Trust under the United States, or under any of the several States.
 
+=== Article VII, Section 4 - Language of This Constitution ===
+The source language of this Constitution shall be English, with exceptions for foreign loan words for which no adequate equivalent exists in English.
+While this Constitution may and should be translated into as many other languages as possible, only the English original shall have the Force of Law.
+The choice of language for the writing of this Constitution does not imply the establishment of any language as the official language of the United States.
+
 == Article VIII - Ratification of This Constitution ==
 
 The Ratification of the Conventions of nine of the original thirteen States, shall be both necessary and sufficient for the Establishment of this Constitution between the States so ratifying the same.
@@ -505,7 +519,7 @@ The Ratification of the Conventions of nine of the original thirteen States, sha
 === Amendment 0 - About these Rights in General ===
 The rights guaranteed in this Bill of Rights are thought to be held equally by all to whom they apply.
 Congress shall ensure that not only are these rights not violated in a negative fashion, but also that all have the capability to exercise these rights in a positive fashion.
-<!-- (I'm using "negative" and "positive" in the mathematical sense of "subtractive" vs. "additive" here, rather than in the moral sense of "good" vs. "bad". An analogy: "negative freedom" is to "freedom from" as "positive freedom" is to "freedom to".) -->
+<!-- (I am using "negative" and "positive" in the mathematical sense of "subtractive" vs. "additive" here, rather than in the moral sense of "good" vs. "bad". An analogy: "negative freedom" is to "freedom from" as "positive freedom" is to "freedom to".) -->
 
 === Amendment I - Freedom of Thought and Expression === 
 ==== Amendment I, Section 1 - Rights Protected ====
@@ -516,8 +530,11 @@ Furthermore, no president shall issue any executive order that abridges any of t
 All freedoms protected in this amendment shall apply only to the set of unique human beings described in the Preamble of this Constitution.
 "Freedom of speech" as used in this amendment is meant more in the sense of the Greek word "isegoria" (an equal chance to speak freely) than it is in the sense of the Greek word "parrhesia" (license to say whatever one wishes).
 Furthermore, the guarantee of freedom of speech does not imply a freedom to force others to listen to said speech, nor shall freedom of speech be thought to abridge the freedom of others to choose those with whom they wish to associate.
-In cases where one person's freedom of speech may come into conflict with another's similar and equal freedom of speech, and it becomes necessary for a court to decide which speech to favor, preference shall be given to true speech over false speech, honest speech over deceptive speech, kind speech over hurtful speech, loving speech over hateful speech, and the speech of the less powerful over the speech of the more powerful.
+<!-- This next clause is meant to address things like the "Heckler's Veto": -->
+In cases where one person's freedom of speech may come into conflict with another's similar and equal freedom of speech, and the mutual exclusivity of the two causes it to become necessary for a court to decide which speech to favor, preference shall be given to true speech over false speech, honest speech over deceptive speech, kind speech over hurtful speech, loving speech over hateful speech, and the speech of the less powerful over the speech of the more powerful.
 <!-- TODO: come up with some sort of "earnestness" test to distinguish between good-faith exercises of these freedoms from bad-faith trolling -->
+The prohibition against an establishment of religion does not mean that Officers of Government may not have their own religious beliefs, nor does it mean that they must abstain from using reasoning based on these beliefs when making decisions, but rather, means merely that they may not require any other persons to hold these beliefs as well.
+Further amendments to this Constitution, being duly ratified and adopted, may augment the applicability of this Amendment appropriately.
 
 ==== Amendment I, Section 3 - Purpose ====
 The "Establishment Clause" and "Free Exercise Clause" in Section 1 of this amendment are intended to maintain a Separation of Church and State, while the rest of the freedoms guaranteed in Section 1 of this amendment are intended to promote the free and reasoned discourse necessary for the betterment of government, and as such, shall be interpreted accordingly, within reason.
@@ -537,10 +554,10 @@ The right of the people to be secure in their persons, houses, papers, and effec
 The Congress shall have the power to define fair and reasonable criteria for probable cause by appropriate legislation.
 
 === Amendment V - Rights of the Accused, Part I ===
-No person shall be held to answer for an especially infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land or naval or air forces, or in the Militia, when in actual service in time of war or clear and present public danger; nor shall any unique human person be subject for the exact same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any case, criminal, civil, or otherwise, to be a witness against himself.
+No person shall be held to answer for an especially infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land or naval or air or space forces, or in the Militia, when in actual service in time of war or clear and present public danger; nor shall any unique human person be subject for the exact same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any case, criminal, civil, or otherwise, to be a witness against himself.
 If a person being accused invokes this right to avoid self-incrimination, or otherwise remains similarly silent, this shall not be construed as an admission of guilt, unless there is strong evidence to the contrary, as determined by the courts.
 Furthermore, no unique human person shall be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, or by eminent domain for other purposes, without just compensation as prescribed by law.
-<!-- So, I've decided that I really don't like the Takings Clause, but am unsure how to go about fixing it... here are 4 alternate, mutually-exclusive ideas: -->
+<!-- So, I have decided that I really dislike the Takings Clause, but am unsure how to go about fixing it... here are 4 alternate, mutually-exclusive ideas: -->
 <!-- - Congress has power to define "just compensation" (so that anything counts, essentially rendering the clause pointless) -->
 <!-- - "just compensation" must be defined in accordance with Rawlsian principles of justice (inequalities of society must be ordered to be of the greatest benefit to the least advantaged) -->
 <!-- - just strike the clause altogether -->
@@ -557,13 +574,13 @@ Congress shall have the power to vary the amount of money for the value in contr
 
 === Amendment VIII - Freedom From Cruel and Unusual Punishment === 
 Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted.
-Congress shall have the power to define what level of bail or fines is "excessive", and which punishments are "cruel and unusual", by passing appropriate legislation.
+Congress shall have the power to define what level of bail or fines is "excessive", and which punishments are "cruel and unusual", by passing appropriate legislation, with the exception that no such definition of "cruel and unusual punishment" shall override the Thirteenth Amendment's prohibition of slavery.
 
 === Amendment IX - Other Non-Enumerated Rights === 
 The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people.
 
 === Amendment X - Federalism === 
-The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people, unless the States and the people freely decide to waive their rights to these powers.
+The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people, unless the States and the people freely and consensually decide to waive their rights to these powers.
 This Amendment is subordinate to the Supremacy Clause found in Article VII of the preceding Constitution, and shall not be construed as giving states the power to nullify federal laws without federal approval.
 
 == Other Amendments ==
@@ -591,8 +608,9 @@ Neither slavery nor involuntary servitude shall exist within the United States, 
 
 ==== Amendment XIII, Section 2 - Definition ====
 "Slavery" shall be defined as the ownership of any person by any other as if they were property, or any forced labor that one is forced to perform without fair pay.
-Taxation is not slavery, and any person who, upon failing to pay their fair share of taxes, claims otherwise in their defense, shall forfeit the protections provided for by this amendment.
+Taxation is not slavery, and any person who, upon failing to pay their fair share of taxes, claims otherwise in their defense in a court of law, shall, upon being duly convicted, forfeit the protections provided for by this amendment.
 <!-- Emphasis on the word "NOT". "Claims otherwise" means claiming that taxation IS in fact slavery. (Adding this emphasis directly to the text itself doesn't seem quite appropriate, though, so it shall stay in this comment for now) -->
+Any person who has forfeited the protections of this amendment may regain them by recanting the court statements that caused them to forfeit said protections.
 
 ==== Amendment XIII, Section 3 - Congressional Power of Enforcement ====
 Congress shall have power to enforce this article by appropriate legislation.
@@ -601,6 +619,8 @@ Congress shall have power to enforce this article by appropriate legislation.
 ==== Amendment XIV, Section 1 - Citizenship, Due Process, and Equal Protection ====
 All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside.
 No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws, except as is necessary to correct for previous inequalities that existed under the law before this amendment was adopted. Any denials of equal protection under this exception shall only be in the opposite direction of the original denial of equal protection for which the exception is correcting, and they shall be of proportionate magnitude as well. Once all historical inequalities that have existed due to this Constitution not originally containing this amendment have been corrected for, this exception shall be removed.
+<!-- This next clause is meant to override the Slaughter-House Cases: -->
+The provisions of this section apply to persons both in their capacities as citizens of the United States, and as citizens of the States in which they are citizens.
 
 ==== Amendment XIV, Section 2 - Removal of the Three-Fifths Clause From the Apportionment Process ==== 
 This section has been incorporated into the main body of the Constitution.
@@ -622,7 +642,8 @@ The Congress shall have power to enforce, by appropriate legislation, the provis
 
 === Amendment XV - Voting Rights for All Races ===
 ==== Amendment XV, Section 1 - Equal Civil Rights ====
-The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, ethnicity, color, or previous condition of servitude.
+The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, ethnicity, color, or previous condition of servitude, neither in terms of their own such attributes, nor those of any of their ancestors.
+<!-- (the addition of that last part is meant to counteract the proliferation of "grandfather clauses" that states created to try to get around this Amendment, as originally drafted) -->
 
 ==== Amendment XV, Section 2 - Congressional Power of Enforcement ====
 The Congress shall have power to enforce this article by appropriate legislation, and to compel the various States to comply with it.
@@ -699,7 +720,7 @@ Should the District at any point be admitted as a State to the Union as provided
 
 === Amendment XXIV - Freedom From Poll Taxes ===
 ==== Amendment XXIV, Section 1 - Poll Taxes Banned ====
-The right of citizens of the United States to vote in any primary or other election for President or Vice President, for electors for President or Vice President, or for Senator or Representative in Congress, shall not be denied or abridged by the United States or any State by reason of failure to pay any poll tax, or any other similar tax or fee, or for failure to meet any other requirement that requires the voter to possess a certain minimum amount of money or property.
+The right of citizens of the United States to vote in any primary or other election for President or Vice President, for electors for President or Vice President, or for Senator or Representative in Congress, shall not be denied or abridged by the United States or any State by reason of failure to pay any poll tax, or any other similar tax or fee, or for failure to meet any other requirement that requires the voter to possess a certain minimum amount of money or property that the state does not also provide them with.
 
 ==== Amendment XXIV, Section 2 - Congressional Power of Enforcement ====
 The Congress shall have power to enforce this article by appropriate legislation, and to compel the various states to comply with it.
@@ -722,6 +743,7 @@ Thereupon Congress shall decide the issue, assembling within forty eight hours f
 If the Congress, within twenty one days after receipt of the latter written declaration, or, if Congress is not in session, within twenty one days after Congress is required to assemble, determines by a two thirds vote of at least two of the three Chambers of Congress that the President is unable to discharge the powers and duties of his office, the Vice President shall continue to discharge the same as Acting President; otherwise, the President shall resume the powers and duties of his office.
 
 === Amendment XXVI - Voting Age Lowered to Eighteen ===
+<!-- (make sure to keep this synced with Amendment XXIX) -->
 The right of citizens of the United States, who have reached the age of majority (which, at the time of the writing of this amendment, is defined as the age of eighteen years old, but may be changed by Congress with appropriate legislation), to vote shall not be denied or abridged by the United States or by any State on account of age.
 Congress shall have the power to enforce this law through appropriate legislation.
 
