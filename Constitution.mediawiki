@@ -777,3 +777,9 @@ The power of the several States is unimpaired by this article except that the op
 === Amendment XXX - Voting Rights for All Castes ===
 The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of their status in any socioeconomic caste system.
 Congress shall have power to enforce this article by appropriate legislation.
+
+=== Amendment XXXI - Right of Revolution ===
+<!-- copied from the NH State Constitution: -->
+Government being instituted for the common benefit, protection, and security, of the whole community, and not for the private interest or emolument of any one man, family, or class of men; therefore, whenever the ends of government are perverted, and public liberty manifestly endangered, and all other means of redress are ineffectual, the people may, and of right ought to reform the old, or establish a new government.
+The doctrine of nonresistance against arbitrary power, and oppression, is absurd, slavish, and destructive of the good and happiness of mankind.
+<!-- (one additional thing I'd want to note is how nonviolent resistance and passive resistance are both different things from nonresistance, as well as being different from each other, but I'm not really sure how to craft that distinction into something Constitutional-sounding...) -->
