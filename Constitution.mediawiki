@@ -270,7 +270,7 @@ No State shall enter into any Treaty, Alliance, or Confederation with any foreig
 
 No State shall, without the Consent of the Congress, lay any Imposts or Duties on Imports or Exports, except what may be absolutely necessary for executing its inspection Laws: and the net Produce of all Duties and Imposts, laid by any State on Imports or Exports, shall be for the use of the Treasury of the United States; and all such Laws shall be subject to the Revision and Control of the Congress.
 
-No State shall, without the Consent of Congress, lay any Duty of Tonnage, keep Troops, or Ships of War in time of Peace, enter into any Agreement or Compact with another State, or with a foreign Power, or engage in War, unless actually invaded, or in such imminent Danger as will not admit of delay.
+No State shall, without the Consent of Congress, lay any Duty of Tonnage, keep Troops, or Ships of War in time of Peace, enter into any Agreement or Compact with another State, or with a foreign Power, or engage in War, unless actually physically invaded, or in such great imminent Danger as will not admit of delay, as governed by international law, drawing from the tradition of "Just War Theory", against aggression.
 
 == Article II - The Executive Branch ==
 
@@ -455,6 +455,7 @@ This restriction does not apply to areas that were historically once parts of St
 The Congress shall have Power to dispose of and make all needful Rules and Regulations respecting the Territory or other Property belonging to the United States; and nothing in this Constitution shall be so construed as to prejudice any claims of the United States, or of any particular State, with an exception that if the State in question is also the District that serves as the Seat of the Government of the United States, then prejudice may be held in favor of it insofar as is necessary for it to fulfill its duties as the District that serves as the Seat of Government.
 
 === Article IV, Section 4 - Protection of States ===
+<!-- The fact that Republicans think that the "Invasion" clause here somehow applies to immigration is so absurd that I'm not sure if there's a way to make it any more obvious just how absurd that interpretation is: -->
 The United States shall guarantee to every State in this Union a Republican Form of Government with Democratically-held elections, and shall protect each of them against Invasion; and on Application of the Legislature, or of the Executive (when the Legislature cannot be convened) against domestic Violence.
 
 == Article V - National Elections ==
