@@ -457,6 +457,9 @@ The Congress shall have Power to dispose of and make all needful Rules and Regul
 === Article IV, Section 4 - Protection of States ===
 <!-- The fact that Republicans think that the "Invasion" clause here somehow applies to immigration is so absurd that I'm not sure if there's a way to make it any more obvious just how absurd that interpretation is: -->
 The United States shall guarantee to every State in this Union a Republican Form of Government with Democratically-held elections, and shall protect each of them against Invasion; and on Application of the Legislature, or of the Executive (when the Legislature cannot be convened) against domestic Violence.
+<!-- ...nevertheless, I'll try (to make it more obvious) anyways: -->
+For the purposes of this section, "Invasion" shall refer solely to the sense of the term that refers to the operation of war.
+<!-- ref: https://reason.com/volokh/2024/01/25/texas-gov-greg-abbott-doubles-down-on-dangerous-claim-that-immigration-is-invasion/ -->
 
 == Article V - National Elections ==
 === Article V, Section 1 - Holiday Status of Election Day ===
