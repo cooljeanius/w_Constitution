@@ -267,6 +267,7 @@ No Congressperson shall, by action or inaction, cause the United States to defau
 === Article I, Section 11 - Powers of States In Relation to Those of Congress ===
 <!-- The change in wording here is supposed to make it clear that interstate compacts are allowed, but the Confederacy from the Civil War wouldn't have been: -->
 No State shall enter into any Treaty, Alliance, or Confederation with any foreign state, or any domestic state engaged in rebellion against the United States; grant Letters of Marque and Reprisal; coin Money; emit Bills of Credit; make any thing but gold or silver coin, or any other federally recognized coin, a Tender in Payment of Debts; pass any Bill of Attainder, ex post facto Law, or Law impairing the Obligation of Contracts, or Law impairing the functioning of democratically-held elections, or grant any Title of Nobility.
+Furthermore, no state shall take any administrative action of the sort that would be prohibited by this section if it were an equivalent legislatively-passed law, assuming it could be conceived of as such.
 
 No State shall, without the Consent of the Congress, lay any Imposts or Duties on Imports or Exports, except what may be absolutely necessary for executing its inspection Laws: and the net Produce of all Duties and Imposts, laid by any State on Imports or Exports, shall be for the use of the Treasury of the United States; and all such Laws shall be subject to the Revision and Control of the Congress.
 
