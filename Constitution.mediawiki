@@ -542,9 +542,10 @@ Furthermore, no president shall issue any executive order that abridges any of t
 All freedoms protected in this amendment shall apply only to the set of unique human beings described in the Preamble of this Constitution.
 "Freedom of speech" as used in this amendment is meant more in the sense of the Greek word "isegoria" (an equal chance to speak freely) than it is in the sense of the Greek word "parrhesia" (license to say whatever one wishes).
 Furthermore, the guarantee of freedom of speech does not imply a freedom to force others to listen to said speech, nor shall freedom of speech be thought to abridge the freedom of others to choose those with whom they wish to associate.
+"Freedom of speech" may also be thought to be synonymous with the similar term of "Freedom of expression".
 <!-- This next clause is meant to address things like the "Heckler's Veto": -->
 In cases where one person's freedom of speech may come into conflict with another's similar and equal freedom of speech, and the mutual exclusivity of the two causes it to become necessary for a court to decide which speech to favor, preference shall be given to true speech over false speech, honest speech over deceptive speech, kind speech over hurtful speech, loving speech over hateful speech, and the speech of the less powerful over the speech of the more powerful.
-<!-- TODO: come up with some sort of "earnestness" test to distinguish between good-faith exercises of these freedoms from bad-faith trolling -->
+<!-- I had kind of wanted to come up with some sort of "earnestness" test to distinguish between good-faith exercises of these freedoms from bad-faith trolling, but I think I have that handled in the next section on "Purpse" now... -->
 The prohibition against an establishment of religion does not mean that Officers of Government may not have their own religious beliefs, nor does it mean that they must abstain from using reasoning based on these beliefs when making decisions, but rather, means merely that they may not require any other persons to hold these beliefs as well.
 Further amendments to this Constitution, being duly ratified and adopted, may augment the applicability of this Amendment appropriately.
 
