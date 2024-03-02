@@ -241,10 +241,6 @@ If the Privilege of the Writ of Habeas Corpus has been suspended in accordance w
 <!-- (if the Privilege of the Writ of Habeas Corpus is suspended for any other reason, that would be in violation of this clause, so that's why it's ok to only handle the one specific reason, and not any others) -->
 
 No Bill of Attainder targeting any person in the bottom 99 percentiles of the country's wealth distribution shall be passed.
-<!-- I considered adding another exception here to allow for Bills of Attainder against insurrectionists as defined by the 14th Amendment, but decided against that because: -->
-<!-- - I failed to figure out how to word it -->
-<!-- - The cases I am most worried about would fall under the wealth exception for the top 1% anyways -->
-<!-- - Adding a second exception would be ripe with potential for abuse -->
 
 No ex post facto Law shall be passed.
 
@@ -380,7 +376,8 @@ The President, Vice President, Cabinet, Executive Council, and all other Civil O
 === Article III, Section 1 - Overview of The Judicial Branch ===
 The judicial Power of the United States, shall be vested in one Supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish.
 The Supreme Court shall consist in an odd number of Justices, one of whom shall be designated the Chief Justice.
-Additional Justices, beyond the nine currently serving as of this revision to the Constitution, may be appointed by the usual nominations process for Supreme Court Justices, provided that the new number of Justices remain odd, and smaller than the maximum number of persons that may fit inside the Court's chambers.
+Additional Justices, beyond the nine currently serving as of this revision to the Constitution, may be appointed by the usual nominations process for Supreme Court Justices, provided that the new number of Justices remain odd, with preference given to prime numbers, and smaller than the maximum number of persons that may fit inside the Court's usual meeting chambers.
+The Congress may direct the expansion of the Court's usual meeting chambers, by passing appropriate legislation.
 The Judges, both of the Supreme and Inferior Courts, shall hold their Offices during good behavior, and shall, at stated times, receive for their services, a compensation, which shall not be diminished during their Continuance in Office.
 Examples of bad behavior that shall cause a Judge to cease holding office shall include, but not be limited to, impeachment, conviction in cases of major crimes, and violations of any code of ethics that may be established for the Judiciary.
 No person shall be nominated to the office of Supreme Court Justice who has not ever appeared in a courtroom in any official capacity, whether it be as a judge, attorney, juror, bailiff, police officer, clerk, expert witness, or any other official position that a lower court may choose to establish, provided that these positions remain open to all.
@@ -404,6 +401,7 @@ While dissenting opinions shall not have the force of Precedent on their own, th
 Generally Courts should respect Precedent, and should only overturn Precedent when absolutely necessary.
 The Courts may interpret when it is "absolutely necessary" at their own discretion.
 Should the Courts interpret this subsection more expansively than is intended, the Congress may also limit the Courts' definition of "absolute necessity", by passing appropriate legislation.
+If these limits become too narrow for the Courts to stay within, the Congress may also revert this definition to a more expansive level.
 
 ==== Article III, Subsection 2.4 - Judicial Review ====
 In deciding a Case, the Supreme Court may decide that it needs the power of Judicial Review in order to correctly decide that case.
@@ -413,17 +411,18 @@ Generally, the Court shall exercise restraint in granting itself the power of Ju
 For this reason, the Court shall only use the power of Judicial Review in cases where it could not decide the case fairly without otherwise doing so, or in cases where it is necessary to protect an oppressed minority from an oppressive majority.
 In determining whether a party is an "oppressed minority" or "oppressive majority", the Court shall apply material analysis of the relative power held by the parties within society.
 Thus, the Court may never consider extremely wealthy persons to be an "oppressed minority" when determining whether a case is eligible for Judicial Review or not. 
-The Supreme Court may not exercise the power of Judicial Review against any law that it simply believes to be Unconstitutional, unless a party to a lawsuit before the Court specifically makes the argument that the law is Unconstitutional.
+The Supreme Court may not exercise the power of Judicial Review against any law that it simply believes to be Unconstitutional, unless a party to a lawsuit before the Court specifically makes the argument that the law is Unconstitutional, provided that the party in question has standing to do so.
 In other words, the opinions of the Court may not go farther in either direction than either of the parties in the case before the Court argue themselves.
 Furthermore, the Court may not create issues out of a case that neither of the parties before them in the case bring up themselves.
 Any decision that the Supreme Court makes in violation of the provisions of this subsection shall not be enforced.
 
 ==== Article III, Subsection 2.5 - Writs of Certiorari ====
 The Supreme Court shall have the power to decide which cases it hears by issuing Writs of Certiorari, or by other methods to be decided by law.
+The Congress may determine criteria for issuing Writs of Certiorari, by passing appropriate legislation, provided that these criteria remain fair and achievable.
 
 ==== Article III, Subsection 2.6 - Briefs of Amicus Curiae ====
 From time to time, the Supreme Court may request ''Amicus Curiae'' briefs from parties with an interest in a case before the Court, in order to assist the Court in deciding the case.
-The Supreme Court may choose to ignore any such briefs that it receives that were unrequested.
+The Supreme Court may choose to ignore any such briefs that it receives that were unrequested, so long as it continues to maintain a method for receiving them.
 
 ==== Article III, Subsection 2.7 - Advisory Opinions ====
 The Supreme Court shall have the power to issue Advisory Opinions on the constitutionality of proposed laws at the request of any of the three Chambers of Congress, in a manner as described in Article I Section 3 of this Constitution.
@@ -643,8 +642,9 @@ Its number is retained for historical purposes.
 ==== Amendment XIV, Section 3 - Qualifications Against Former Members of the Confederacy, and Other Similar Such Insurrectionists ====
 No person shall be a Senator, Representative, or Assemblyperson in Congress, or Executive Councilor, or elector of President and Vice-President, or hold any office, civil or military, under the United States, or under any State, or be listed on a ballot for election to any of the preceding offices, who, having previously taken an oath, or affirmed to the same effect, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support, preserve, protect, or defend the Constitution of the United States, or to take any combination of any of the set of preceding actions, or similar actions, regarding said Constitution, shall have engaged in insurrection or rebellion or revolt against the same, or given aid or comfort to specific enemies thereof.
 This additional qualification for office shall be interpreted as being self-executing.
-But Congress may by a vote of two-thirds of each of the three Houses, remove such disability.
-Court proceedings held to determine whether or not a specific person is disqualified from holding office under this section shall count as due process of law.
+But Congress may, by a vote of two-thirds of each of the three Houses, remove such disability from any particular person who would otherwise be disqualified by it.
+On the other hand, if, upon holding votes to remove such a disability, the disqualified person fails to achieve even a plurality of votes in their favor in any of the three Houses, that person shall lose any protections against Bills of Attainder that this Constitution may have previously guaranteed to them.
+Court proceedings held to determine whether or not a specific person is disqualified from holding office under this section shall count as due process of law, to the extent to which it is still required.
 
 ==== Amendment XIV, Section 4 - Unquestionability of the National Debt ====
 The validity of the public debt of the United States, authorized by law or by necessity, including (but not limited to) debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall not be questioned, nor shall it be arbitrarily limited to amounts of dollars that are in no way tied to the status of the national economy.
