@@ -8,4 +8,4 @@ A note on wiki-markup: any text found between syntax like this: `<!-- text -->` 
 and thus not part of the actual text that I'd be making actionable/legal,
 if this were to become our new Constitution.
 
-The "`w_`" in the repository title is for "wiki".
+The "`w_`" in the repository title is for "wiki"; I chose it partially just to try to even out the representation in terms of the letters of the alphabet that have a lot of things starting with them.
