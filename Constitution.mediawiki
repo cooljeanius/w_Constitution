@@ -546,12 +546,17 @@ Furthermore, the guarantee of freedom of speech does not imply a freedom to forc
 In cases where one person's freedom of speech may come into conflict with another's similar and equal freedom of speech, and the mutual exclusivity of the two causes it to become necessary for a court to decide which speech to favor, preference shall be given to true speech over false speech, honest speech over deceptive speech, kind speech over hurtful speech, loving speech over hateful speech, and the speech of the less powerful over the speech of the more powerful.
 <!-- I had kind of wanted to come up with some sort of "earnestness" test to distinguish between good-faith exercises of these freedoms from bad-faith trolling, but I think I have that handled in the next section on "Purpse" now... -->
 The prohibition against an establishment of religion does not mean that Officers of Government may not have their own religious beliefs, nor does it mean that they must abstain from using reasoning based on these beliefs when making decisions, but rather, means merely that they may not require any other persons to hold these beliefs as well.
-Further amendments to this Constitution, being duly ratified and adopted, may augment the applicability of this Amendment appropriately.
+The prohibition against an establishment of religion also means that this Constitution itself shall not be interpreted as a religious document, but rather, solely as a legal one.
+One final implication of the prohibition against an establishment of religion is that all persons responsible for the creation and modification of this Constitution shall be regarded solely as human beings, and not as Gods.
 
 ==== Amendment I, Section 3 - Purpose ====
 The "Establishment Clause" and "Free Exercise Clause" regarding religious freedom in Section 1 of this amendment are intended to maintain a Separation of Church and State, so as to avoid "wars of religion" such as the ones that beset Europe in the centuries preceding the founding of these United States.
 Religious freedom, intended as such, does not imply license to forsake morality and law entirely, nor does it imply permission to deny equal and compatible freedoms to others.
 Meanwhile, the rest of the freedoms guaranteed in Section 1 of this amendment, specifically, those of speech, the press, assembly, petitioning, and conscience, are intended to promote the free and reasoned discourse necessary for the betterment of government, and as such, shall be interpreted accordingly, within reason.
+
+==== Amendment I, Section 4 - Coherence ====
+<!-- Basically a general-purpose "seemingly-conflicting amendments don't actually conflict" clause: -->
+Further amendments to this Constitution, being duly ratified and adopted, may augment the applicability of this Amendment appropriately.
 
 === Amendment II - Freedom of Self-Defense ===
 A well regulated Militia, being necessary for the security and defense of a free state, the collective right of the people to keep and bear arms as part of the aforementioned well regulated militia, or as part of a duly organized labor union or tenants' union, shall not be infringed.
