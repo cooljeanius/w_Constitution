@@ -545,6 +545,9 @@ Furthermore, no president shall issue any executive order that abridges any of t
 All freedoms protected in this amendment shall apply only to the set of unique human beings described in the Preamble of this Constitution.
 "Freedom of speech" as used in this amendment is meant more in the sense of the Greek word "isegoria" (an equal chance to speak freely) than it is in the sense of the Greek word "parrhesia" (license to say whatever one wishes).
 Furthermore, the guarantee of freedom of speech does not imply a freedom to force others to listen to said speech, nor shall freedom of speech be thought to abridge the freedom of others to choose those with whom they wish to associate.
+<!-- TODO: refine this clarification further: -->
+However, merely being located in the same space as someone exercising their right to freedom of speech does not imply that one's right to freedom of association is being violated, so long as it is possible to ignore the speaker and disclaim any connection with them.
+<!-- Just making sure the term is used explicitly: -->
 "Freedom of speech" may also be thought to be synonymous with the similar term of "Freedom of expression".
 <!-- This next clause is meant to address things like the "Heckler's Veto": -->
 In cases where one person's freedom of speech may come into conflict with another's similar and equal freedom of speech, and the mutual exclusivity of the two causes it to become necessary for a court to decide which speech to favor, preference shall be given to true speech over false speech, honest speech over deceptive speech, kind speech over hurtful speech, loving speech over hateful speech, and the speech of the less powerful over the speech of the more powerful.
@@ -557,6 +560,7 @@ One final implication of the prohibition against an establishment of religion is
 The "Establishment Clause" and "Free Exercise Clause" regarding religious freedom in Section 1 of this amendment are intended to maintain a Separation of Church and State, so as to avoid "wars of religion" such as the ones that beset Europe in the centuries preceding the founding of these United States.
 Religious freedom, intended as such, does not imply license to forsake morality and law entirely, nor does it imply permission to deny equal and compatible freedoms to others.
 Meanwhile, the rest of the freedoms guaranteed in Section 1 of this amendment, specifically, those of speech, the press, assembly, petitioning, and conscience, are intended to promote the free and reasoned discourse necessary for the betterment of government, and as such, shall be interpreted accordingly, within reason.
+This amendment is numbered first in order to reflect its primacy.
 
 ==== Amendment I, Section 4 - Coherence ====
 <!-- Basically a general-purpose "seemingly-conflicting amendments don't actually conflict" clause: -->
@@ -570,12 +574,14 @@ No provision of this amendment shall be construed so as to override or infringe 
 For the purpose of this amendment, "well regulated" shall mean both "possessing adequate democratic oversight" and "organized in a manner that is orderly, safe, and lawful," in accordance with the common usage of the term.
 
 === Amendment III - Privacy of the People's Homes from Soldiers === 
-Given that people have a right to privacy of their homes, no soldier or other similar member of the military or any police force shall, in time of peace be quartered in any house, without the consent of the owner, nor in time of war, but in a manner to be prescribed by law.
+Given that people have a right to homes in which they may expect a reasonable amount of privacy, no soldier or other similar member of the military or any police force shall, in time of peace be quartered in any house, without the consent of the owner, nor in time of war, but in a manner to be prescribed by law.
+For the purposes of this amendment, a person shall be considered a soldier, similar member of the military, or any police force, if and only if it is within their purview to exercise the State's monopoly on the legitimate use of violence.
 
 === Amendment IV - Freedom From Unlawful Searches and Seizures === 
 The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the location or place to be searched, and the persons, things, or information to be seized.
 The Congress shall have the power to define fair and reasonable criteria for probable cause by appropriate legislation.
 Furthemore, the Congress shall have the power to define which searches and seizures are "unreasonable", by passing appropriate legislation, provided that such definitions take into account both safety, and commonly-accepted principles of Justice.
+The protections afforded by this amendment are primarily targeted against violations by the soldiers, members of the military, police officers, or other executors of the State's monopoly on the legitimate use of violence, as defined by the previous amendment.
 
 === Amendment V - Rights of the Accused, Part I ===
 No person shall be held to answer for an especially infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land or naval or air or space forces, or in the Militia, when in actual service in time of war or clear and present public danger; nor shall any unique human person be subject for the exact same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any case, criminal, civil, or otherwise, to be a witness against himself.
@@ -640,7 +646,9 @@ Congress shall have power to enforce this article by appropriate legislation.
 === Amendment XIV ===
 ==== Amendment XIV, Section 1 - Citizenship, Due Process, and Equal Protection ====
 All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside.
-No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws, except as is necessary to correct for previous inequalities that existed under the law before this amendment was adopted. Any denials of equal protection under this exception shall only be in the opposite direction of the original denial of equal protection for which the exception is correcting, and they shall be of proportionate magnitude as well. Once all historical inequalities that have existed due to this Constitution not originally containing this amendment have been corrected for, this exception shall be removed.
+No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws, except as is necessary to correct for previous inequalities that existed under the law before this amendment was adopted.
+Any denials of equal protection under this exception shall only be in the opposite direction of the original denial of equal protection for which the exception is correcting, and they shall be of proportionate magnitude as well.
+Once all historical inequalities that have existed due to this Constitution not originally containing this amendment have been corrected for, this exception shall be removed.
 <!-- This next clause is meant to override the Slaughter-House Cases: -->
 The provisions of this section apply to persons both in their capacities as citizens of the United States, and as citizens of the States in which they are citizens.
 
