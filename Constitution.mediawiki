@@ -593,6 +593,7 @@ The Congress has power to define "just compensation" for the purposes of this Am
 === Amendment VI - Rights of the Accused, Part II ===
 In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, to present evidence on his behalf, and to have the assistance of Counsel for his defense.
 This assistance of Counsel shall be provided by the court if the accused is unable to pay for Counsel himself.
+If there is no applicable district available to hold the trial guaranteed by this amendment, the next-closest district shall be used instead.
 
 === Amendment VII - Jury Trials ===  
 In suits at common law (as defined in Article III, Section 2 of this Constitution), where the value in controversy shall exceed two hundred dollars, the right of trial by jury shall be preserved, and no fact tried by a jury, shall be otherwise re-examined in any Court of the United States, than according to the rules of the common law.
