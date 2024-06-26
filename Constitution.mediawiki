@@ -533,8 +533,7 @@ The Ratification of the Conventions of nine of the original thirteen States, sha
 == Bill of Rights ==
 === Amendment 0 - About these Rights in General ===
 The rights guaranteed in this Bill of Rights are thought to be held equally by all to whom they apply.
-Congress shall ensure that not only are these rights not violated in a negative fashion, but also that all have the capability to exercise these rights in a positive fashion.
-<!-- (I am using "negative" and "positive" in the mathematical sense of "subtractive" vs. "additive" here, rather than in the moral sense of "good" vs. "bad". An analogy: "negative freedom" is to "freedom from" as "positive freedom" is to "freedom to".) -->
+Congress shall ensure that not only are these rights not violated in a negative, or subtractive, fashion, but also that all have the capability to exercise these rights in a positive, or additive, fashion, in accordance with the principles of "negative liberty" (or "freedom from") and "positive liberty" (or "freedom to") as described by Isaiah Berlin in his lecture "Two Concepts of Liberty" in 1958.
 
 === Amendment I - Freedom of Thought and Expression === 
 ==== Amendment I, Section 1 - Rights Protected ====
