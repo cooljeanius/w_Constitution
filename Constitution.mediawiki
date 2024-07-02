@@ -204,6 +204,7 @@ To constitute tribunals inferior to the Supreme Court;
 
 To define and punish violent Piracies and other Felonies committed on the high Seas, and Offences against the Law of Nations;
 
+<!-- "declare" means "enter into" here: -->
 To declare War, or to temporarily authorize the President to use force-short-of-war, provided that the temporary and limited nature of such authorizations is well-defined;
 
 To grant Letters of Marque and Reprisal, and make Rules concerning Captures on Land and Water;
@@ -318,9 +319,11 @@ The Chief Justice of the Supreme Court shall be responsible for administering th
 === Article II, Section 3 - Powers of The President ===
 <!-- TODO: limit Commander in Chief powers further -->
 The President shall be Commander in Chief of the Army, Navy, Air Force, and Space Force of the United States, and of the Militia of the several States, when called by the Congress into the actual Service of the United States, provided, however, that his actions as Commander in Chief are not repugnant in any way to any other part of this Constitution, or to any laws established thereunder, or to any international agreements into which the United States has entered.
-The President may also require the opinion, in writing, of the principal Officer in each of the executive Departments, upon any subject relating to the duties of their respective Offices, and he shall have power to grant Reprieves and Pardons for offenses against the United States, except in cases of Impeachment, or in cases where the offender is the President himself, or a person in his employ, or a person acting upon his orders, or a person holding an office to which they were nominated by the President.
+The President may also require the opinion, in writing, of the principal Officer in each of the executive Departments, upon any subject relating to the duties of their respective Offices.
+The President shall also have power to grant Reprieves and Pardons for offenses against the United States, except in cases of Impeachment, or in cases where the offender is the President himself, or a person in his employ, or a person acting upon his orders, or a person holding an office to which they were nominated by the President.
 For the purposes of the preceding sentence, "except in cases of Impeachment" shall refer to both to the actual Impeachment itself, as well as any separate prosecutions for the same crimes involved in the Impeachment, as pursued through the normal justice system.
 Furthermore, it shall also apply to both federal Impeachments, and Impeachments performed by any state government.
+No President shall be considered to have any greater immunities against prosecution than any other citizen would be entitled to under this Constitution.
 
 <!-- Cross-reference against Article III here for the Judges of the Supreme Court part: -->
 He shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Senators present concur; and he shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the Supreme Court, and all other Officers of the United States, whose Appointments are not herein otherwise provided for, and which shall be established by Law: but the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments.
@@ -328,7 +331,11 @@ He shall have Power, by and with the Advice and Consent of the Senate, to make T
 The President shall have Power to fill up all Vacancies that may happen or exist during the Recess of the Senate, by granting Commissions which shall expire at the end of their next full session in which they conduct business.
 
 === Article II, Section 4 - Responsibilities of The President ===
-The President shall from time to time give to the Congress Information on the State of the Union in whatever form he sees fit (whether it be a speech or other method of communication), and recommend to their consideration such measures as he shall judge necessary and expedient; he may, on extraordinary Occasions, convene all three Houses, or any combination of them, or any single House, and in case of disagreement among them or between any two of them, with respect to the time of adjournment, he may adjourn them to such time as he shall think proper; he shall receive ambassadors and other public ministers; he shall take care that the Laws be faithfully executed, and shall commission all other Officers of the United States besides himself.
+The President shall from time to time give to the Congress Information on the State of the Union in whatever form he sees fit (whether it be a speech or other method of communication), and recommend to their consideration such measures as he shall judge necessary and expedient.
+The President may also, on extraordinary Occasions, convene all three Houses, or any combination of them, or any single House, and in case of disagreement among them or between any two of them, with respect to the time of adjournment, he may adjourn them to such time as he shall think proper; he shall receive ambassadors and other public ministers.
+Furthermore, he shall take care that the Laws be faithfully executed, even against himself when necessary, and he shall commission all other Officers of the United States besides himself.
+The President's duty to take that the Laws be faithfully executed is not exclusive.
+The independence of the Department of Justice, and any other law enforcement department duly constituted in the Executive Branch, is both necessary and proper for the faithful execution of laws, especially in cases when the President may have broken the law himself, or otherwise have a conflict of interest that requires independent review.
 
 === Article II, Section 5 - The Executive Council ===
 ==== Article II, Subsection 5.1 - Election of Executive Councilors ====
