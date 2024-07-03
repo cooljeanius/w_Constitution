@@ -106,7 +106,8 @@ When sitting for that Purpose, they shall be on Oath or Affirmation.
 When the President of the United States is tried, the Chief Justice of the Supreme Court shall preside over the hearings, but he shall have no vote towards the outcome.
 No person being impeached shall be convicted without the concurrence of two thirds of the members of the Senate who are present.
 
-Judgment in Cases of Impeachment shall not extend further than to removal from Office, and disqualification to hold and enjoy any Office of honor, Trust or Profit under the United States: but the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law.
+Judgment in Cases of Impeachment shall not extend further than to removal from Office, and disqualification to hold and enjoy any Office of honor, Trust or Profit under the United States: but the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law, regardless of the position from which they were removed.
+No law, nor any interpretation thereof, shall give any person immunity from this clause.
 
 === Article I, Section 4 - The General Assembly ===
 ==== Article I, Subsection 4.1 - Method of Choosing Assemblypersons ====
