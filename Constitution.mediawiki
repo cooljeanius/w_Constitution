@@ -817,3 +817,7 @@ Congress shall have power to enforce this article by appropriate legislation.
 Government being instituted for the common benefit, protection, and security, of the whole community, and not for the private interest or emolument of any one man, family, or class of men; therefore, whenever the ends of government are perverted, and public liberty manifestly endangered, and all other means of redress are ineffectual, the people may, and of right ought to reform the old, or establish a new government.
 The doctrine of nonresistance against arbitrary power, and oppression, is absurd, slavish, and destructive of the good and happiness of mankind.
 <!-- (one additional thing I'd want to note is how nonviolent resistance and passive resistance are both different things from nonresistance, as well as being different from each other, but I'm not really sure how to craft that distinction into something Constitutional-sounding...) -->
+
+=== Amendment XXXII - Blaine Amendment ===
+<!-- I have already included part of the Blaine Amendment in my rewrite of the First Amendment, so that leaves just this part: -->
+No money raised by taxation in any State for the support of public schools, or derived from any public fund therefor, nor any public lands devoted thereto, shall ever be under the control of any religious sect; nor shall any money so raised or lands so devoted be divided between religious sects or denominations.
