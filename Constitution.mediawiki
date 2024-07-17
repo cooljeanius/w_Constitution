@@ -659,6 +659,10 @@ Any denials of equal protection under this exception shall only be in the opposi
 Once all historical inequalities that have existed due to this Constitution not originally containing this amendment have been corrected for, this exception shall be removed.
 <!-- This next clause is meant to override the Slaughter-House Cases: -->
 The provisions of this section apply to persons both in their capacities as citizens of the United States, and as citizens of the States in which they are citizens.
+<!-- Since conservatives think the 14th Amendment could be used to prohibit abortion: -->
+For the purposes of this amendment, "person" refers to any living human being that has been born.
+<!-- (I am actually fine with the viability standard for personhood from Roe v. Wade, but I don't trust myself to get it right with enough precision of language to put it in the actual text of the Constitution at the moment) -->
+<!-- (Likewise, my own preferred standard for personhood, one of consciousness, isn't one I can really define, either) -->
 
 ==== Amendment XIV, Section 2 - Removal of the Three-Fifths Clause From the Apportionment Process ==== 
 This section has been incorporated into the main body of the Constitution.
@@ -820,4 +824,4 @@ The doctrine of nonresistance against arbitrary power, and oppression, is absurd
 
 === Amendment XXXII - Blaine Amendment ===
 <!-- I have already included part of the Blaine Amendment in my rewrite of the First Amendment, so that leaves just this part: -->
-No money raised by taxation in any State for the support of public schools, or derived from any public fund therefor, nor any public lands devoted thereto, shall ever be under the control of any religious sect; nor shall any money so raised or lands so devoted be divided between religious sects or denominations.
+In keeping with the principle of separation of church and state set forth in the First Amendment, no money raised by taxation in any State for the support of public schools, or derived from any public fund therefor, nor any public lands devoted thereto, shall ever be under the control of any religious sect; nor shall any money so raised or lands so devoted be divided between religious sects or denominations.
