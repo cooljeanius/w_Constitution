@@ -107,7 +107,9 @@ The Senate shall choose their other Officers, and also a President Pro Tempore b
 ==== Article I, Subsection 3.4 - Impeachments ====
 The Senate shall have the sole Power to try all Impeachments declared by the House of Representatives.
 When sitting for that Purpose, they shall be on Oath or Affirmation.
-When the President of the United States is tried, the Chief Justice of the Supreme Court shall preside over the hearings, but he shall have no vote towards the outcome.
+When the President or the Vice President of the United States is tried, the Chief Justice of the Supreme Court shall preside over the hearings, but he shall have no vote towards the outcome.
+If the Chief Justice is unavailable to fulfill this role, the duty of presiding shall fall to the next member of the Supreme Court in order of seniority.
+If there is no eligible person to preside under the preceding provisions, the Senate shall choose a presiding officer according to their own rules.
 No person being impeached shall be convicted without the concurrence of two thirds of the members of the Senate who are present.
 
 Judgment in Cases of Impeachment shall not extend further than to removal from Office, and disqualification to hold and enjoy any Office of honor, Trust or Profit under the United States: but the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law, regardless of the position from which they were removed.
