@@ -194,7 +194,7 @@ To coin Money, regulate the Value thereof, and of foreign Coin, and fix the Stan
 
 To provide for the Punishment of counterfeiting the Securities and current Coin of the United States;
 
-To establish Post Offices, post Roads, and any other facilities required by the Postal Service;
+To establish Post Offices, post Roads, and any other facilities required by the Postal Service, which shall be responsible for the secure handling of absentee ballots and otherwise mailed ballots in elections;
 
 <!-- this next subclause is getting a bit long; I might want to split it out into somewhere separate: -->
 To promote the progress of science and useful arts, by securing for limited times to authors and inventors the exclusive right to their respective writings and discoveries; but such exclusive rights may not be used for any other purpose besides the previously mentioned promotion of progress of science and useful arts, and may thus be curtailed to the extent that they obstruct these purposes, and the "limited times" for which these rights may be secured shall not exceed the lifespans of the unique human authors and inventors to whom these rights are granted;
@@ -328,15 +328,15 @@ The Chief Justice of the Supreme Court shall be responsible for administering th
 
 === Article II, Section 3 - Powers of The President ===
 <!-- TODO: limit Commander in Chief powers further -->
-The President shall be Commander in Chief of the Army, Navy, Air Force, and Space Force of the United States, and of the Militia of the several States, when called by the Congress into the actual Service of the United States, provided, however, that his actions as Commander in Chief are not repugnant in any way to any other part of this Constitution, or to any laws established thereunder, or to any international agreements into which the United States has entered.
+The President shall be Commander in Chief of the Army, Navy, Air Force, and Space Force of the United States, and of the Militia of the several States, when called by the Congress into the actual Service of the United States, provided, however, that his actions as Commander in Chief are not repugnant in any way to any other part of this Constitution, or to any laws established thereunder, or to any international agreements into which the United States has legally entered.
 The President may also require the opinion, in writing, of the principal Officer in each of the executive Departments, upon any subject relating to the duties of their respective Offices.
 The President shall also have power to grant Reprieves and Pardons for offenses against the United States, except in cases of Impeachment, or in cases where the offender is the President himself, or a person in his employ, or a person acting upon his orders, or a person holding an office to which they were nominated by the President.
 For the purposes of the preceding sentence, "except in cases of Impeachment" shall refer to both to the actual Impeachment itself, as well as any separate prosecutions for the same crimes involved in the Impeachment, as pursued through the normal justice system.
-Furthermore, it shall also apply to both federal Impeachments, and Impeachments performed by any state government.
+Furthermore, it shall also apply to both federal Impeachments, and Impeachments performed by any state government under similar procedures to those used federally.
 No President shall be considered to have any greater immunities against prosecution than any other citizen would be entitled to under this Constitution.
 
 <!-- Cross-reference against Article III here for the Judges of the Supreme Court part: -->
-He shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Senators present concur; and he shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the Supreme Court, and all other Officers of the United States, whose Appointments are not herein otherwise provided for, and which shall be established by Law: but the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments.
+The President shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Senators present concur; and he shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the Supreme Court, and all other Officers of the United States, whose Appointments are not herein otherwise provided for, and which shall be established by Law: but the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments.
 
 The President shall have Power to fill up all Vacancies that may happen or exist during the Recess of the Senate, by granting Commissions which shall expire at the end of their next full session in which they conduct business.
 
@@ -344,7 +344,7 @@ The President shall have Power to fill up all Vacancies that may happen or exist
 The President shall from time to time give to the Congress Information on the State of the Union in whatever form he sees fit (whether it be a speech or other method of communication), and recommend to their consideration such measures as he shall judge necessary and expedient.
 The President may also, on extraordinary Occasions, convene all three Houses, or any combination of them, or any single House, and in case of disagreement among them or between any two of them, with respect to the time of adjournment, he may adjourn them to such time as he shall think proper; he shall receive ambassadors and other public ministers.
 Furthermore, he shall take care that the Laws be faithfully executed, even against himself when necessary, and he shall commission all other Officers of the United States besides himself.
-The President's duty to take that the Laws be faithfully executed is not exclusive.
+The President's duty to take care that the Laws be faithfully executed is not exclusive.
 The independence of the Department of Justice, and any other law enforcement department duly constituted in the Executive Branch, is both necessary and proper for the faithful execution of laws, especially in cases when the President may have broken the law himself, or otherwise have a conflict of interest that requires independent review.
 
 === Article II, Section 5 - The Executive Council ===
@@ -506,12 +506,13 @@ This shall be done in a manner consistent with the anonymity of the ballots, suc
 <!-- How exactly to solve the apparent paradox of making this information available and yet anonymous remains an implementation detail that would be done by statute instead of here: -->
 Congress shall have the power to resolve any tensions between these criteria for vote-counting, by passing appropriate legislation.
 <!-- Perhaps it would be done in the method of double-blind scientific experiments, or with UUIDs or other sorts of cryptographic hashes... -->
-<!-- (please don't misunderstand my suggestion of cryptographic hashes to imply that I am suggesting anything to do with blockchains, though, as, according to Matt Blaze, those fail to solve the problem) -->
+<!-- (please don't misunderstand my suggestion of cryptographic hashes to imply that I am suggesting anything to do with blockchains, though, as, according to many voting technology experts, those fail to solve the problem) -->
 
 == Article VI - Amending The Constitution ==
 
 === Article VI, Section 1 - Prerequisites for Amending This Constitution ===
-The Congress, whenever two thirds of two of the three Houses shall deem it necessary, shall propose Amendments to this Constitution, or, on the application of the Legislatures of two thirds of the several States, shall call a Convention for proposing Amendments, which, in either Case, shall be valid to all Intents and Purposes, as Part of this Constitution, either as additions to the list of Amendments at the end of this Constitution, or as a direct rewriting of the body of the Consitution itself, at the decision of those writing the amendment.
+<!-- I was going to go with "three fifths" at first where it currently says "four sevenths", but "three fifths" is forever tainted by its previous usage in the Constitution, so I am avoiding that: -->
+The Congress, whenever two thirds of two of the three Houses, or four sevenths of all three Houses, shall deem it necessary, shall propose Amendments to this Constitution, or, on the application of the Legislatures of two thirds of the several States, shall call a Convention for proposing Amendments, which, in either Case, shall be valid to all Intents and Purposes, as Part of this Constitution, either as additions to the list of Amendments at the end of this Constitution, or as a direct rewriting of the body of the Consitution itself, at the decision of those writing the amendment.
 This consideration of Amendments as part of the Constitution shall take effect when the Amendments in question are ratified by the Legislatures of three fourths of the several States, or by Conventions in three fourths thereof, as the one or the other Mode of Ratification may be proposed by the Congress; provided that no State, without its consent, shall be deprived of its equal suffrage in the Senate, and also provided that no State, without its consent, shall be deprived of a fair suffrage proportionate to its population in the House of Representatives.
 <!-- (I considered removing the part about the Senate here, but since I added a 3rd chamber of Congress, it's possible to retain the requirement for equal suffrage in the Senate, since the Senate can now just be bypassed) -->
 The Congress shall have the power to request that the Legislatures of the several states submit an application to call a Convention of the sort described herein, or that they reaffirm any prior such applications that they may have submitted prior to the most recent previous revision of this Constitution.
@@ -595,7 +596,7 @@ For the purposes of this amendment, a person shall be considered a soldier, simi
 
 === Amendment IV - Freedom From Unlawful Searches and Seizures === 
 The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the location or place to be searched, and the persons, things, or information to be seized.
-The Congress shall have the power to define fair and reasonable criteria for probable cause by appropriate legislation.
+The Congress shall have the power to define fair and reasonable criteria for "probable cause", by passing appropriate legislation.
 Furthemore, the Congress shall have the power to define which searches and seizures are "unreasonable", by passing appropriate legislation, provided that such definitions take into account both safety, and commonly-accepted principles of Justice.
 The protections afforded by this amendment are primarily targeted against violations by the soldiers, members of the military, police officers, or other executors of the State's monopoly on the legitimate use of violence, as defined by the previous amendment.
 
@@ -671,7 +672,7 @@ Its number is retained for historical purposes.
 No person shall be a Senator, Representative, or Assemblyperson in Congress, or Executive Councilor, or elector of President and Vice-President, or hold any office, civil or military, under the United States, or under any State, or be listed on a ballot for election to any of the preceding offices, who, having previously taken an oath, or affirmed to the same effect, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support, preserve, protect, or defend the Constitution of the United States, or to take any combination of any of the set of preceding actions, or similar actions, regarding said Constitution, shall have engaged in insurrection or rebellion or revolt against the same, or given aid or comfort to specific enemies thereof.
 This additional qualification for office shall be interpreted as being self-executing, meaning that no further actions are necessary for it to be effective.
 But Congress may, by a vote of two-thirds of each of the three Houses, remove such inability to hold office from any particular person who would otherwise be disqualified by it.
-On the other hand, if, upon holding votes to remove such a disability, the disqualified person fails to achieve even a plurality of votes in their favor in any of the three Houses, that person shall lose any protections against Bills of Attainder that this Constitution may have previously guaranteed to them.
+On the other hand, if, upon holding votes to remove such a disability, the disqualified person fails to achieve even a plurality of votes in their favor in any of the three Houses, that person shall also lose any protections against Bills of Attainder that this Constitution may have previously guaranteed to them.
 Court proceedings held to determine whether or not a specific person is disqualified from holding office under this section shall count as due process of law, to the extent to which it is still required.
 
 ==== Amendment XIV, Section 4 - Unquestionability of the National Debt ====
