@@ -572,7 +572,8 @@ In cases where one person's freedom of speech may come into conflict with anothe
 <!-- I had kind of wanted to come up with some sort of "earnestness" test to distinguish between good-faith exercises of these freedoms from bad-faith trolling, but I think I have that handled in the next section on "Purpse" now... -->
 The prohibition against an establishment of religion does not mean that Officers of Government may not have their own religious beliefs, nor does it mean that they must abstain from using reasoning based on these beliefs when making decisions, but rather, means merely that they may not require any other persons to hold these beliefs as well.
 The prohibition against an establishment of religion also means that this Constitution itself shall not be interpreted as a religious document, but rather, solely as a legal one.
-One final implication of the prohibition against an establishment of religion is that all persons responsible for the creation and modification of this Constitution shall be regarded solely as human beings, and not as Gods.
+One additional implication of the prohibition against an establishment of religion is that all persons responsible for the creation and modification of this Constitution shall be regarded solely as human beings, and not as Gods.
+Furthermore, no officer of the United States, or other person acting on behalf of the United States, shall establish themselves as a prophet, God, or other holy figure to be worshipped as divine by any religion, cult, or sect.
 
 ==== Amendment I, Section 3 - Purpose ====
 The "Establishment Clause" and "Free Exercise Clause" regarding religious freedom in Section 1 of this amendment are intended to maintain a Separation of Church and State, so as to avoid "wars of religion" such as the ones that beset Europe in the centuries preceding the founding of these United States.
