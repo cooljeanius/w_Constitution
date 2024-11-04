@@ -264,10 +264,10 @@ No vessels bound to, or from, one State, shall be obliged to enter, clear, or pa
 
 No money shall be drawn from the Treasury, except as a consequence of Appropriations made by Law; and a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time.
 
-No Title of Nobility shall be granted by the United States: And no Person holding any Office of Profit or Trust under them, shall, without the explicit Consent of the Congress, accept or inherit any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince or foreign State.
+No Title of Nobility shall be granted by the United States: And no Person holding any Office of Profit or Trust under them, shall, without the explicit Consent of the Congress, accept or inherit any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince, foreign State, or religious or ecclesiastical order.
 Any officeholder found to have received anything in violation of this provision shall be eligible for impeachment and forfeiture of what it is they have received, as well as any other consequences which may be provided for by law.
 <!-- attempted adaptation of the Titles of Nobility Amendment: -->
-Furthermore, if any citizen of the United States shall accept, claim, receive or retain, any title of nobility or honour, or shall, without the consent of Congress, accept and retain any present, pension, office or emolument of any kind whatever, from any emperor, king, prince or foreign power, such person shall cease to be a citizen of the United States as soon as they have accepted another nation's citizenship, and shall be incapable of holding any office of trust or profit under them, or either of them.
+Furthermore, if any citizen of the United States shall accept, claim, receive or retain, any title of nobility or honour, or shall, without the consent of Congress, accept and retain any present, pension, office or emolument of any kind whatever, from any emperor, king, prince, foreign power, or religious order, such person shall cease to be a citizen of the United States as soon as they have accepted another nation's citizenship, and shall be incapable of holding any office of trust or profit under them, or either of them.
 <!-- (I'm trying to avoid the loss of citizenship leading to a person becoming stateless; improvements to wording are welcome) -->
 
 No Congressperson shall, by action or inaction, cause the United States to default on its debts.
