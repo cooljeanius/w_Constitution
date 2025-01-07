@@ -616,7 +616,8 @@ In all criminal prosecutions, the accused shall enjoy the right to a speedy and 
 This assistance of Counsel shall be provided by the court if the accused is unable to pay for Counsel himself.
 If there is no applicable district available to hold the trial guaranteed by this amendment, the next-closest district shall be used instead.
 
-=== Amendment VII - Jury Trials ===  
+=== Amendment VII - Jury Trials ===
+<!-- The dollar amount in the original Constitution here was $20; I changed it to $200 in 2013: -->
 In suits at common law (as defined in Article III, Section 2 of this Constitution), where the value in controversy shall exceed two hundred dollars, the right of trial by jury shall be preserved, and no fact tried by a jury, shall be otherwise re-examined in any Court of the United States, than according to the rules of the common law.
 Congress shall have the power to vary the amount of money for the value in controversy provided for in this Amendment, to match current rates of inflation or deflation, by passing appropriate legislation.
 
