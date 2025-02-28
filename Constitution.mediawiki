@@ -187,7 +187,9 @@ To fairly regulate the financing of political campaigns;
 
 To sensibly regulate Commerce with foreign Nations, and among the several States, and with the various Native American Tribes, and any other sort of commerce that may reasonably be deemed to be of great national interest;
 
-To establish an uniform Rule of Naturalization, and uniform Laws on the subject of Bankruptcies throughout the United States;
+To establish a fair, uniform, and welcoming Rule of Naturalization;
+
+To establish uniform Laws on the subject of Bankruptcies throughout the United States;
 
 To charter a National Bank;
 
@@ -562,7 +564,8 @@ Congress shall ensure that not only are these rights not violated in a negative,
 === Amendment I - Freedom of Thought and Expression === 
 ==== Amendment I, Section 1 - Rights Protected ====
 Neither Congress nor any State shall make any law respecting an establishment of religion, or prohibiting the free exercise thereof (unless said free exercise would violate one of the other freedoms outlined in this Bill of Rights); or abridging the freedom of speech of the people, or abridging the freedom of the press; or the right of the people peaceably to assemble, and to petition the Government or similar wielders of power for a redress of grievances; or abridging the right of freedom of conscience.
-Furthermore, no president shall issue any executive order that abridges any of these rights, either.
+<!-- "executive action" is a bit broader than "executive order": -->
+Furthermore, no president shall take any executive action that abridges any of these rights, either.
 
 ==== Amendment I, Section 2 - Applicability ====
 All freedoms protected in this amendment shall apply only to the set of unique human beings described in the Preamble of this Constitution.
