@@ -247,8 +247,8 @@ Advisory Opinions issued in this way are non-binding.
 
 === Article I, Section 10 - Restrictions on Congressional Power ===
 
-The Privilege of the Writ of Habeas Corpus shall not be suspended, unless when in cases of rebellion or physical invasion the public safety may require it.
-If the Privilege of the Writ of Habeas Corpus has been suspended in accordance with the law for this specific reason, after the specific case of rebellion or physical invasion that caused it to be suspended has ended, the Privilege of the Writ of Habeas Corpus shall immediately be reinstated.
+The Privilege of the Writ of Habeas Corpus shall not be suspended for anyone, unless when in cases of unlawful rebellion or physical invasion the public safety may require it.
+If the Privilege of the Writ of Habeas Corpus has been suspended in accordance with the law for this specific reason, after the specific case of unlawful rebellion or physical invasion that caused it to be suspended has ended, the Privilege of the Writ of Habeas Corpus shall immediately be reinstated.
 <!-- (if the Privilege of the Writ of Habeas Corpus is suspended for any other reason, that would be in violation of this clause, so that's why it's ok to only handle the one specific reason, and not any others) -->
 
 No Bill of Attainder targeting any person in the bottom 99 percentiles of the country's wealth distribution shall be passed.
