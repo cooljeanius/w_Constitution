@@ -343,7 +343,7 @@ The President shall have Power, by and with the Advice and Consent of the Senate
 
 The Senate shall refuse their Advice and Consent to any nomination where the person nominated perjures themselves in the process of seeking confirmation to the position.
 
-The President shall have Power to fill up all Vacancies that may happen or exist during the Recess of the Senate, by granting Commissions which shall expire at the end of their next full session in which they conduct business.
+The President shall have Power to fill up all Vacancies in existing offices that may happen or exist during the Recess of the Senate, by granting Commissions which shall expire at the end of their next full session in which they conduct business.
 
 <!-- TODO: Trump is planning on abusing his recess appointment powers; add some language to make it clearer that he cannot do that -->
 
