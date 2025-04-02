@@ -635,6 +635,7 @@ Furthermore, any definitions of "excessive" bail or fines, or "cruel and unusual
 === Amendment IX - Other Non-Enumerated Rights === 
 The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people.
 <!-- An important example that I believe may deserve explicit enumeration, just to elevate its importance: the freedom of movement -->
+This is in accordance with the principle that this Constitution should be interpreted according to its spirit, beyond just its letter.
 
 === Amendment X - Federalism === 
 The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people, unless the States and the people freely and consensually decide to waive their rights to these powers.
