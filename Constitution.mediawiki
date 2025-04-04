@@ -71,7 +71,8 @@ While States may choose to have their voters either select their Representatives
 The Congress shall have the power to set exact criteria for fairness in the drawing of Congressional Districts, by passing appropriate legislation.
 
 ==== Article I, Subsection 2.4 - Vacancies in the House ====
-When vacancies happen in the Representation from any State, the Executive Authority thereof shall issue Writs of Election to fill such Vacancies.
+When vacancies happen in the Representation from any State, the Executive Authority thereof shall promptly issue Writs of Election to fill such Vacancies as soon as is reasonably possible.
+<!-- TODO: make the timeframe more specific? -->
 
 ==== Article I, Subsection 2.5 - Powers of the House ====
 <!-- Keep this synced with the list of causes of removal for office for executive branch officials, which is currently located in Article II, Section 6 -->
