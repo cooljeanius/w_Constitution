@@ -572,8 +572,10 @@ Neither Congress nor any State shall make any law respecting an establishment of
 <!-- "executive action" is a bit broader than "executive order": -->
 Furthermore, no president shall take any executive action that abridges any of these rights, either.
 
-==== Amendment I, Section 2 - Applicability ====
+==== Amendment I, Section 2 - General Applicability ====
 All freedoms protected in this amendment shall apply only to the set of unique human beings described in the Preamble of this Constitution.
+
+==== Amendment I, Section 3 - Applicability With Regards To Speech ====
 "Freedom of speech" as used in this amendment is meant more in the sense of the Greek word "isegoria" (an equal chance to speak freely) than it is in the sense of the Greek word "parrhesia" (license to say whatever one wishes).
 Furthermore, the guarantee of freedom of speech does not imply a freedom to force others to listen to said speech, nor shall freedom of speech be thought to abridge the freedom of others to choose those with whom they wish to associate.
 <!-- TODO: refine this clarification further: -->
@@ -582,19 +584,22 @@ However, merely being located in the same space as someone exercising their righ
 "Freedom of speech" may also be thought to be synonymous with the similar term of "Freedom of expression".
 <!-- This next clause is meant to address things like the "Heckler's Veto": -->
 In cases where one person's freedom of speech may come into conflict with another's similar and equal freedom of speech, and the mutual exclusivity of the two causes it to become necessary for a court to decide which speech to favor, preference shall be given to true speech over false speech, honest speech over deceptive speech, kind speech over hurtful speech, loving speech over hateful speech, and the speech of the less powerful over the speech of the more powerful.
+
+==== Amendment I, Section 4 - Applicability With Regards To Religion ====
 <!-- I had kind of wanted to come up with some sort of "earnestness" test to distinguish between good-faith exercises of these freedoms from bad-faith trolling, but I think I have that handled in the next section on "Purpse" now... -->
 The prohibition against an establishment of religion does not mean that Officers of Government may not have their own religious beliefs, nor does it mean that they must abstain from using reasoning based on these beliefs when making decisions, but rather, means merely that they may not require any other persons to hold these beliefs as well.
 The prohibition against an establishment of religion also means that this Constitution itself shall not be interpreted as a religious document, but rather, solely as a legal one.
 One additional implication of the prohibition against an establishment of religion is that all persons responsible for the creation and modification of this Constitution shall be regarded solely as human beings, and not as Gods.
 Furthermore, no officer of the United States, or other person acting on behalf of the United States, shall establish themselves as a prophet, God, or other holy figure to be worshipped as divine by any religion, cult, or sect.
+In interpreting this amendment, it may become necessary to define what exactly a "religion" is. Doing so is permissible insofar as it is necessary for the fair application of the Law.
 
-==== Amendment I, Section 3 - Purpose ====
+==== Amendment I, Section 5 - Purpose ====
 The "Establishment Clause" and "Free Exercise Clause" regarding religious freedom in Section 1 of this amendment are intended to maintain a Separation of Church and State, so as to avoid "wars of religion" such as the ones that beset Europe in the centuries preceding the founding of these United States.
 Religious freedom, intended as such, does not imply license to forsake morality and law entirely, nor does it imply permission to deny equal and compatible freedoms to others.
 Meanwhile, the rest of the freedoms guaranteed in Section 1 of this amendment, specifically, those of speech, the press, assembly, petitioning, and conscience, are intended to promote the free and reasoned discourse necessary for the betterment of government, and as such, shall be interpreted accordingly, within reason.
 This amendment is numbered first in order to reflect its primacy.
 
-==== Amendment I, Section 4 - Coherence ====
+==== Amendment I, Section 6 - Coherence ====
 <!-- Basically a general-purpose "seemingly-conflicting amendments don't actually conflict" clause: -->
 Further amendments to this Constitution, being duly ratified and adopted, may augment the applicability of this Amendment appropriately.
 
@@ -674,7 +679,7 @@ All persons born or naturalized in the United States, and subject to the jurisdi
 The principle of "birthright citizenship" here established is fundamental to protecting the rights of the people, and shall not be infringed.
 No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws, except as is necessary to correct for previous inequalities that existed under the law before this amendment was adopted.
 Any denials of equal protection under this exception shall only be in the opposite direction of the original denial of equal protection for which the exception is correcting, and they shall be of proportionate magnitude as well.
-Once all historical inequalities that have existed due to this Constitution not originally containing this amendment have been corrected for, this exception shall be removed.
+Once all historical inequalities that have existed due to this Constitution not originally containing this amendment have been corrected for, this exception shall become inoperative.
 <!-- This next clause is meant to override the Slaughter-House Cases: -->
 The provisions of this section apply to persons both in their capacities as citizens of the United States, and as citizens of the States in which they are citizens.
 <!-- Since conservatives think the 14th Amendment could be used to prohibit abortion: -->
