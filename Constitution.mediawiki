@@ -78,6 +78,7 @@ When vacancies happen in the Representation from any State, the Executive Author
 ==== Article I, Subsection 2.5 - Powers of the House ====
 <!-- Keep this synced with the list of causes of removal for office for executive branch officials, which is currently located in Article II, Section 6 -->
 The House of Representatives shall choose their Speaker and other Officers; and shall have the sole Power of Declaring Impeachments of federal Officeholders for treason, bribery, or other high crimes and felonies.
+The enumeration in the Constitution, of certain grounds for Impeachment, shall not be construed to deny or disparage Congress from Impeaching on other grounds not explicitly enumerated.
 
 === Article I, Section 3 - The Senate ===
 ==== Article I, Subsection 3.1 - Election of Senators ====
