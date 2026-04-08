@@ -149,14 +149,15 @@ The times, places and manner of holding elections for Senators and Representativ
 
 The Congress shall assemble at least once in every year, and such meeting shall begin at noon on the 3d day of January, unless they shall by law appoint a different day.
 
-=== Article I, Section 6 - Powers Possessed By Each Chamber of Congress ===
+=== Article I, Section 6 - Powers and Responsibilities Possessed By Each Chamber of Congress ===
 Each Chamber of Congress shall be the Judge of the Elections, Returns and Qualifications of its own Members, and a Majority of each shall constitute a Quorum to do Business; but a smaller Number may adjourn from day to day, and may be authorized to compel the Attendance of absent Members, in such Manner, and under such Penalties as each Chamber may provide.
 
 Each Chamber may determine fair rules for their own Proceedings, provided that these rules satisfy the principle of majority rule.
 Each Chamber may also punish its Members for disorderly behavior, and, with the concurrence of two thirds, expel a Member.
 
+<!-- For case-sensitive searches: "journal" is capitalized here in keeping with the Founders' somewhat broader criteria for declaring certain nouns to be proper: -->
 Each Chamber shall keep a Journal of its proceedings and actions, and from time to time publish the same, excepting, in rare cases, such parts as may in their best judgment require secrecy; and the Yeas and Nays of the Members of any of the three chambers on any question shall, at the Desire of one fifth of those Present, be entered on the Journal.
-The public's right of access to the publications of this Journal shall not be unreasonably restricted.
+The public's right of access to the publications of these Journals shall not be unreasonably restricted.
 
 No Chamber, during the Session of Congress, shall, without the consent of at least one of the other two Chambers, adjourn for more than three days, nor to any other place than that in which the three Chambers shall be sitting.
 
@@ -400,6 +401,10 @@ When the President signs into law a budget passed by Congress, if that budget pr
 
 <!-- TODO: One other duty of NH's Executive Council is that of Transportation hearings (GACIT); see if something similar can be created with regards to the Federal Department of Transportation... maybe something like this? -->
 Members of the Executive Council shall be responsible for ensuring that transportation is possible between both members of the pairing of states which they represent.
+
+<!-- Based on (copied from) from Article I language regarding the responsibility of each chamber of Congress to keep a journal: -->
+The President and Executive Council shall keep a Journal of their proceedings and actions, and from time to time publish the same, excepting, in rare cases, such parts as may, in the interests of the national well-being, require secrecy; and the Yeas and Nays of those voting on any question at any meeting of the President and Council shall, at the Desire of one fifth of those Present, be entered on the Journal.
+The public's right of access to the publications of this Journal shall not be unreasonably restricted.
 
 === Article II, Section 6 - Removal From Office, and Compensation for Services ===
 The President, Vice President, Cabinet, Executive Council, and all other Civil Officers in the Executive Branch of the United States, shall be removed from Office on Impeachment for and conviction of, treason, bribery, or other high crimes and felonies.
