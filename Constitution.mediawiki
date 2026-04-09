@@ -83,7 +83,7 @@ The enumeration in the Constitution, of certain grounds for Impeachment, shall n
 === Article I, Section 3 - The Senate ===
 ==== Article I, Subsection 3.1 - Election of Senators ====
 <!-- My method here is an attempt at a compromise between the original appointment of Senators envisioned by the Founding Fathers, which promotes the Separation of Powers, and the elections provided for by the 17th Amendment, which promote democracy. -->
-<!-- Yes, moving backwards in this fashion would be bad if that's all I did, but the addition of a third chamber (the General Assembly) with a "best two out of three" system for passing legislation makes it possible to bypass it: -->
+<!-- Yes, moving backwards in this fashion would be bad if that were all I did, but the addition of a third chamber (the General Assembly) with a "best two out of three" system for passing legislation makes it possible to bypass it: -->
 The Senate of the United States shall be composed of three Senators from each State, chosen in an election in that State in which the single winning candidate shall be the one that receives at least two of the three of the following: a plurality of votes of the people of that state, a plurality of votes of the Legislature of that State, and the approval of the Executive Authority of that state.
 If there is no single candidate that meets the preceding criteria, then the winning candidate shall be the one that receives a plurality of votes of the people of that state.
 Each Senator shall be elected for a term of six Years; and each Senator shall have one Vote.
@@ -163,7 +163,7 @@ No Chamber, during the Session of Congress, shall, without the consent of at lea
 
 === Article I, Section 7 - Privileges Held and Not Held By Congresspeople ===
 The Senators, Representatives, and Assemblypersons shall receive a Compensation for their Services, to be ascertained by Law, and paid out of the Treasury of the United States.
-They shall in all Cases, except Treason, Felony and Breach of the Peace, be privileged from Arrest during their Attendance at the Session of their respective Houses, and in going to and returning from the same; and for any Speech or Debate in either House, they shall not be questioned in any other Place.
+They shall in all Cases, except Treason, Felony, and Breach of the Peace, be privileged from Arrest during their Attendance at the Session of their respective Houses, and in going to and returning from the same; and for any Speech or Debate in either House, they shall not be questioned in any other Place.
 
 No Senator, Representative, or Assemblyperson shall, during the Time for which he was elected or chosen, be appointed to any civil Office under the Authority of the United States, which shall have been created, or the Emoluments whereof shall have been increased during such time; and no person holding any Office under the United States, shall be a Member of any of the three Houses during his Continuance in Office.
 
@@ -278,7 +278,7 @@ No Title of Nobility shall be granted by the United States: And no Person holdin
 Any officeholder found to have received anything in violation of this provision shall be eligible for impeachment and forfeiture of what it is they have received, as well as any other consequences which may be provided for by law.
 <!-- attempted adaptation of the Titles of Nobility Amendment: -->
 Furthermore, if any citizen of the United States shall accept, claim, receive or retain, any title of nobility or honour, or shall, without the consent of Congress, accept and retain any present, pension, office or emolument of any kind whatever, from any emperor, king, prince, foreign power, or religious order, such person shall cease to be a citizen of the United States as soon as they have accepted another nation's citizenship, and shall be incapable of holding any office of trust or profit under them, or either of them.
-<!-- (I'm trying to avoid the loss of citizenship leading to a person becoming stateless; improvements to wording are welcome) -->
+<!-- (I am trying to avoid the loss of citizenship leading to a person becoming stateless; improvements to wording are welcome) -->
 
 No Congressperson shall, by action or inaction, cause the United States to default on its debts.
 
@@ -343,7 +343,7 @@ The President shall be Commander in Chief of the Army, Navy, Air Force, and Spac
 The President may also require the opinion, in writing, of the principal Officer in each of the executive Departments, upon any subject relating to the duties of their respective Offices.
 The President shall also have power to grant Reprieves and Pardons for offenses committed at the federal level against the United States, except in cases of Impeachment, or in cases where the offender is the President himself, or a person in his employ, or a person acting upon his orders, or a person holding an office to which they were nominated by the President.
 For the purposes of the preceding sentence, "except in cases of Impeachment" shall refer to both to the actual Impeachment itself, as well as any separate prosecutions for the same crimes involved in the Impeachment, as pursued through the normal justice system.
-<!-- I had a sentence about state-level impeachments here at first, but on second thought, those already aren't pardonable due to being state-level crimes, so there's no need to say so again. -->
+<!-- I had a sentence about state-level impeachments here at first, but on second thought, those already aren't pardonable due to being state-level crimes, so there is no need to say so again. -->
 No President shall be considered to have any greater immunities against prosecution than any other citizen would be entitled to under this Constitution.
 
 <!-- Cross-reference against Article III here for the Judges of the Supreme Court part: -->
@@ -381,7 +381,7 @@ As pairings are liable to shift with population changes, any term limits for Exe
 No person shall be an Executive Councilor who shall not have attained to the age of forty years, and been twenty years a citizen of the United States, and who shall not, when elected, be a legal inhabitant of the smaller of the two States in the pairing of states for which he shall be chosen.
 
 ==== Article II, Subsection 5.3 - Duties, Responsibilities, and Powers of the Executive Council ====
-The Executive Council shall assist the President in the distribution of his executive orders amongst the various departments to which the given executive order is relevant, and may, at their discretion, supplement any such executive orders with their own interpretations of how the executive order is to be implemented.
+The Executive Council shall meet regularly with the President and assist in the distribution of his executive orders amongst the various departments to which the given executive order is relevant, and may, at their discretion, supplement any such executive orders with their own interpretations of how the executive order is to be implemented.
 
 <!-- TODO: compare with NH Executive Council input on pardons: -->
 The Executive Council shall assist the President in deciding which Reprieves and Pardons to grant, and, if necessary, may vote to override any Reprieves and Pardons that they determine, by a two-thirds vote, to have been corruptly granted, or to pose a danger to the Republic.
@@ -491,16 +491,18 @@ The Citizens of each State shall be entitled to all Privileges and Immunities of
 A Person charged in any State or District with Treason, Felony, or other Crime, who shall flee from Justice, and be found in another State or District, shall on Demand of the executive Authority of the State or District from which he or she fled, be delivered up, to be removed to the State or District having Jurisdiction of the Crime.
 
 === Article IV, Section 3 - New States ===
-<!-- I think I tweaked some stuff in here for the purposes of DC Statehood; it might need further tweaking, though: -->
-New States may be admitted by the Congress into this Union; but no new State shall be formed or erected within the active Jurisdiction of any other State; nor shall any State be formed by the Junction of two or more States, or parts of States, without the consent of the Legislatures of the individual States concerned, in addition to the consent of the Congress of the United States.
-This restriction does not apply to areas that were historically once parts of States, but that, at the time of admission into the Union, no longer have such a status.
+Congress may admint new States into this Union by granting their consent to petitions for Statehood.
+<!-- I am loosening the requirements here to make combining various Western states easier: -->
+However, no new State shall be formed or erected within the active Jurisdiction of any other State; nor shall any State be formed by the Junction of two or more States, or parts of States, without the consent of the Legislatures of the individual States concerned, or the consent of the Executive Authority of the individual States concerned, or plebiscites in which a majority of the People of the individual States concerned vote to grant their consent to such a Junction.
+<!-- I think I this exception was for the purposes of DC Statehood; it might need further tweaking, though: -->
+This restriction on state formation does not apply to areas that were historically once parts of States, but that, at the time of admission into the Union, no longer have such a status.
 
 The Congress shall have Power to dispose of and make all needful Rules and Regulations respecting the Territory or other Property belonging to the United States; and nothing in this Constitution shall be so construed as to prejudice any claims of the United States, or of any particular State, with an exception that if the State in question is also the District that serves as the Seat of the Government of the United States, then prejudice may be held in favor of it insofar as is necessary for it to fulfill its duties as the District that serves as the Seat of Government.
 
 === Article IV, Section 4 - Protection of States ===
-<!-- The fact that Republicans think that the "Invasion" clause here somehow applies to immigration is so absurd that I'm not sure if there's a way to make it any more obvious just how absurd that interpretation is: -->
+<!-- The fact that Republicans think that the "Invasion" clause here somehow applies to immigration is so absurd that I am not sure if there is a way to make it any more obvious just how absurd that interpretation is: -->
 The United States shall guarantee to every State in this Union a Republican Form of Government with Democratically-held elections, and shall protect each of them against Invasion; and on Application of the Legislature, or of the Executive (when the Legislature cannot be convened) against domestic Violence.
-<!-- ...nevertheless, I'll try (to make it more obvious) anyways: -->
+<!-- ...nevertheless, I shall try (to make it more obvious) anyways: -->
 For the purposes of this section, "Invasion" shall refer solely to the sense of the term that refers to the operation of war.
 <!-- ref: https://reason.com/volokh/2024/01/25/texas-gov-greg-abbott-doubles-down-on-dangerous-claim-that-immigration-is-invasion/ -->
 
@@ -514,9 +516,10 @@ All jurisdictions within the United States that require voters to register befor
 <!-- (N.B. there are some jurisdictions that, as of the time of writing, don't require voter registration, specifically, North Dakota, currently. Such jurisdictions would not be affected by this section.) -->
 
 === Article V, Section 3 - Balloting and Voting Method ===
+<!-- RCV -->
 All voters in elections held by the United States shall be guaranteed an anonymous preference ballot, that is, a ballot in which the voter ranks the candidates ordinally in accordance with his or her preferences.
 The exact method for tallying these preference votes shall be decided by law, but the method chosen shall meet as many of the mathematical criteria for a desirable election method as is reasonably possible.
-<!-- (Of course, Arrow's Theorem says it's impossible to meet them all, so that's why it's "as is reasonably possible") -->
+<!-- (Of course, Arrow's Theorem says it is impossible to meet them all, so that is why it is "as is reasonably possible") -->
 
 === Article V, Section 4 - Candidates and Political Parties ===
 No person shall be barred from candidacy for any election held by the United States on the basis of his or her membership in any political party, or by his or her lack of any such membership whatsoever.
@@ -536,7 +539,7 @@ Congress shall have the power to resolve any tensions between these criteria for
 <!-- I was going to go with "three fifths" at first where it currently says "four sevenths", but "three fifths" is forever tainted by its previous usage in the Constitution, so I am avoiding that: -->
 The Congress, whenever two thirds of two of the three Houses, or four sevenths of all three Houses, shall deem it necessary, shall propose Amendments to this Constitution, or, on the application of the Legislatures of two thirds of the several States, shall call a Convention for proposing Amendments, which, in either Case, shall be valid to all Intents and Purposes, as Part of this Constitution, either as additions to the list of Amendments at the end of this Constitution, or as a direct rewriting of the body of the Consitution itself, at the decision of those writing the amendment.
 This consideration of Amendments as part of the Constitution shall take effect when the Amendments in question are ratified by the Legislatures of three fourths of the several States, or by Conventions in three fourths thereof, as the one or the other Mode of Ratification may be proposed by the Congress; provided that no State, without its consent, shall be deprived of its equal suffrage in the Senate, and also provided that no State, without its consent, shall be deprived of a fair suffrage proportionate to its population in the House of Representatives.
-<!-- (I considered removing the part about the Senate here, but since I added a 3rd chamber of Congress, it's possible to retain the requirement for equal suffrage in the Senate, since the Senate can now just be bypassed) -->
+<!-- (I considered removing the part about the Senate here, but since I added a 3rd chamber of Congress, it is possible to retain the requirement for equal suffrage in the Senate, since the Senate can now just be bypassed) -->
 The Congress shall have the power to request that the Legislatures of the several states submit an application to call a Convention of the sort described herein, or that they reaffirm any prior such applications that they may have submitted prior to the most recent previous revision of this Constitution.
 
 === Article VI, Section 2 - Extra Accommodations Required for Constitutional Conventions ===
@@ -612,7 +615,7 @@ This amendment is numbered first in order to reflect its primacy.
 <!-- Basically a general-purpose "seemingly-conflicting amendments don't actually conflict" clause: -->
 Further amendments to this Constitution, being duly ratified and adopted, may augment the applicability of this Amendment appropriately.
 
-=== Amendment II - Freedom of Self-Defense ===
+=== Amendment II - Freedom of Self-Defense and Community Defense ===
 A well regulated Militia, being necessary for the security and defense of a free state, the collective right of the people to keep and bear arms as part of the aforementioned well regulated militia, or as part of a duly organized labor union or tenants' union, shall not be infringed.
 However, an individual's right to keep and bear arms may be fairly and peaceably restricted so far as is necessary to ensure the public safety, according to principles of proportionality, justice, and equality.
 Also, no person, who is conscientiously scrupulous about the lawfulness or morality of bearing arms, shall be compelled to serve in a militia or otherwise bear arms against their will.
@@ -652,8 +655,7 @@ Congress shall have the power to define what level of bail or fines is "excessiv
 Furthermore, any definitions of "excessive" bail or fines, or "cruel and unusual punishments" must take into account the economic principle of the Law of Diminishing Marginal Utility.
 
 === Amendment IX - Other Non-Enumerated Rights === 
-The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people.
-<!-- An important example that I believe may deserve explicit enumeration, just to elevate its importance: the freedom of movement -->
+The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people (for example, the Freedom of Movement).
 This is in accordance with the principle that this Constitution should be interpreted according to its spirit, beyond just its letter.
 
 === Amendment X - Federalism === 
@@ -728,7 +730,7 @@ The Congress shall have power to lay and collect taxes on incomes, from whatever
 The Congress shall also have the power to create and fund administrative bodies for the purposes of collecting said taxes on incomes.
 
 === Amendment XVII - Direct Election of Senators ===
-<!-- This isn't really completely true considering that I also changed stuff while incorporating it, but it's true enough for now: -->
+<!-- This isn't really completely true considering that I also changed stuff while incorporating it, but it is true enough for now: -->
 This Amendment's topic has been rewritten directly in the body of Article I, Section 3 of the Constitution.
 Its number is retained for historical purposes.
 
@@ -811,6 +813,7 @@ Whenever there is a vacancy in the office of the Vice President, the President s
 Whenever the President transmits to the President pro tempore of the Senate and the Speaker of the House of Representatives his written declaration that he is unable to discharge the powers and duties of his office, and until he transmits to them a written declaration to the contrary, such powers and duties shall be discharged by the Vice President as Acting President.
 
 ==== Amendment XXV, Section 4 - Times When the Vice President May Act as Acting President, Part II ====
+<!-- "sickness" here covers both physical, mental, and any other kinds of sickness: -->
 Whenever the Vice President and a majority of either the principal officers of the executive departments or of such other body as Congress may by law provide, transmit to the President pro tempore of the Senate and the Speaker of the House of Representatives their written declaration that the President is unable to discharge the powers and duties of his office, whether due to incapacity, sickness, impeachment, or any other reason, the Vice President shall immediately assume the powers and duties of the office as Acting President.
 
 Thereafter, when the President transmits to the President pro tempore of the Senate and the Speaker of the House of Representatives his written declaration that no inability exists, he shall resume the powers and duties of his office unless the Vice President and a majority of either the principal officers of the executive department or of such other body as Congress may by law provide, transmit within four days to the President pro tempore of the Senate and the Speaker of the House of Representatives their written declaration that the President is unable to discharge the powers and duties of his office.
@@ -852,7 +855,7 @@ Congress shall have power to enforce this article by appropriate legislation.
 <!-- copied from the NH State Constitution: -->
 Government being instituted for the common benefit, protection, and security, of the whole community, and not for the private interest or emolument of any one man, family, or class of men; therefore, whenever the ends of government are perverted, and public liberty manifestly endangered, and all other means of redress are ineffectual, the people may, and of right ought to reform the old, or establish a new government.
 The doctrine of nonresistance against arbitrary power, and oppression, is absurd, slavish, and destructive of the good and happiness of mankind.
-<!-- (one additional thing I'd want to note is how nonviolent resistance and passive resistance are both different things from nonresistance, as well as being different from each other, but I'm not really sure how to craft that distinction into something Constitutional-sounding...) -->
+<!-- (one additional thing I want to note is how nonviolent resistance and passive resistance are both different things from nonresistance, as well as being different from each other, but I am not really sure how to craft that distinction into something Constitutional-sounding...) -->
 
 === Amendment XXXII - Blaine Amendment ===
 <!-- I have already included part of the Blaine Amendment in my rewrite of the First Amendment, so that leaves just this part: -->
