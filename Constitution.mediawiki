@@ -215,7 +215,8 @@ To ensure that everyone in the country is adequately housed;
 
 To promote the civil rights of the country's populace;
 
-To constitute tribunals inferior to the Supreme Court;
+<!-- "them" is intentionally ambiguous as to whether it means "between the Supreme Court and inferior courts" or "between various individual inferior courts", because I am not sure yet what I want to do here: -->
+To constitute tribunals inferior to the Supreme Court, and establish rules for circulation of Justices between them;
 
 To define and punish violent Piracies and other Felonies committed on the high Seas, and Offences against the Law of Nations;
 
