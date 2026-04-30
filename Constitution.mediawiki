@@ -719,7 +719,8 @@ The Congress shall have power to enforce, by appropriate legislation, the provis
 
 === Amendment XV - Voting Rights for All Races ===
 ==== Amendment XV, Section 1 - Equal Civil Rights ====
-The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, ethnicity, color, hair texture, or previous condition of servitude, neither in terms of their own such attributes, nor those of any of their ancestors.
+<!-- I am spelling out explicitly that the right to vote includes the right to representation here, because the SCOTUS is stupid and evil and refused to find that previous versions of this amendment already guaranteed that; may need further grammatical checking against double negatives: -->
+Neither the right of citizens of the United States to vote, nor their right to be represented fairly in Congress, may be denied or abridged by the United States or by any State on account of race, ethnicity, color, hair texture, or previous condition of servitude, neither in terms of their own such attributes, nor those of any of their ancestors.
 <!-- (the addition of that last part is meant to counteract the proliferation of "grandfather clauses" that states created to try to get around this Amendment, as originally drafted) -->
 
 ==== Amendment XV, Section 2 - Congressional Power of Enforcement ====
