@@ -285,7 +285,7 @@ No Congressperson shall, by action or inaction, cause the United States to defau
 
 === Article I, Section 11 - Powers of States In Relation to Those of Congress ===
 <!-- The change in wording here is supposed to make it clear that interstate compacts are allowed, but the Confederacy from the Civil War wouldn't have been: -->
-No State shall enter into any Treaty, Alliance, or Confederation with any foreign state, or any domestic state engaged in rebellion against the United States; grant Letters of Marque and Reprisal; coin Money; emit Bills of Credit; make any thing but gold or silver coin, or any other federally recognized coin, a Tender in Payment of Debts; pass any Bill of Attainder, ex post facto Law, or Law impairing the Obligation of Contracts, or Law impairing the functioning of democratically-held elections, or grant any Title of Nobility.
+No State shall enter into any Treaty, Alliance, or Confederation with any foreign state, or any domestic state engaged in rebellion against the United States; grant Letters of Marque and Reprisal; coin Money; emit Bills of Credit; make any thing but gold or silver coin, or any other federally recognized coin, a Tender in Payment of Debts; pass any Bill of Attainder targeting any person in the bottom 99 percentiles of that State's wealth distribution, ex post facto Law, or Law impairing the Obligation of Contracts, or Law impairing the functioning of democratically-held elections, or grant any Title of Nobility.
 Furthermore, no state shall take any administrative action of the sort that would be prohibited by this section if it were an equivalent legislatively-passed law, assuming it could be conceived of as such.
 
 No State shall, without the Consent of the Congress, lay any Imposts or Duties on Imports or Exports, except what may be absolutely necessary for executing its inspection Laws: and the net Produce of all Duties and Imposts, laid by any State on Imports or Exports, shall be for the use of the Treasury of the United States; and all such Laws shall be subject to the Revision and Control of the Congress.
@@ -650,10 +650,12 @@ If there is no applicable district available to hold the trial guaranteed by thi
 In suits at common law (as defined in Article III, Section 2 of this Constitution), where the value in controversy shall exceed two hundred dollars, the right of trial by jury shall be preserved, and no fact tried by a jury, shall be otherwise re-examined in any Court of the United States, than according to the rules of the common law.
 Congress shall have the power to vary the amount of money for the value in controversy provided for in this Amendment, to match current rates of inflation or deflation, by passing appropriate legislation.
 
-=== Amendment VIII - Freedom From Cruel and Unusual Punishment === 
+=== Amendment VIII - Freedom From Cruel and Unusual Punishment ===
+Criminal sentencing in the United States shall take place according to the principle that the punishment must fit the crime.
 Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted.
 Congress shall have the power to define what level of bail or fines is "excessive", and which punishments are "cruel and unusual", by passing appropriate legislation, with the exception that no such definition of "cruel and unusual punishment" shall override the Thirteenth Amendment's prohibition of slavery.
 Furthermore, any definitions of "excessive" bail or fines, or "cruel and unusual punishments" must take into account the economic principle of the Law of Diminishing Marginal Utility.
+For the purposes of this amendment, the word "disproportionate" may be substituted for "unusual".
 
 === Amendment IX - Other Non-Enumerated Rights === 
 The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people (for example, the Freedom of Movement).
@@ -677,10 +679,8 @@ Neither slavery nor involuntary servitude shall exist within the United States, 
 
 
 ==== Amendment XIII, Section 2 - Definition ====
-"Slavery" shall be defined as the ownership of any person by any other as if they were property, or any forced labor that one is forced to perform without fair pay.
-Taxation is not slavery, and any person who, upon failing to pay their fair share of taxes, claims otherwise in their defense in a court of law, shall, upon being duly convicted, forfeit the protections provided for by this amendment.
-<!-- Emphasis on the word "NOT". "Claims otherwise" means claiming that taxation IS in fact slavery. (Adding this emphasis directly to the text itself doesn't seem quite appropriate, though, so it shall stay in this comment for now) -->
-Any person who has forfeited the protections of this amendment may regain them by recanting the court statements that caused them to forfeit said protections.
+"Slavery" shall be defined solely as the ownership of any person by any other as if they were property, or any forced labor that one is forced to perform without fair pay.
+<!-- I had an additional clause here to refute the libertarians who think that taxation counts as slavery, but on second thought, adding the word "solely" to the definition above (as I have now done) obviates the need to address that specific bit of crankery. -->
 
 ==== Amendment XIII, Section 3 - Congressional Power of Enforcement ====
 Congress shall have power to enforce this article by appropriate legislation.
